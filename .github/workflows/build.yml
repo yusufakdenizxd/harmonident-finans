@@ -57,7 +57,7 @@ jobs:
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
-          files: |
-            release/windows/HarmoniFinans.exe
+          files: release/windows/HarmoniFinans.exe
+          draft: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
