@@ -83,14 +83,16 @@ jobs:
           name: windows-exe
           path: release/windows
 
+      - name: List downloaded files
+        run: |
+          echo "=== macOS ===" && ls -la release/macos || echo "no macos"
+          echo "=== Windows ===" && ls -la release/windows || echo "no windows"
+
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            release/macos/HarmoniFinans.app
             release/macos/HarmoniFinans
             release/windows/HarmoniFinans.exe
-            release/windows/data/
-          generate_release_notes: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
