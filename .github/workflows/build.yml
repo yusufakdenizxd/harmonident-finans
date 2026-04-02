@@ -8,35 +8,6 @@ on:
       - 'v*'
 
 jobs:
-  build-macos:
-    runs-on: macos-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Install uv
-        uses: astral-sh/setup-uv@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.14'
-
-      - name: Build macOS app
-        run: |
-          uv pip install pyinstaller
-          uv run pyinstaller --onefile --windowed --name "HarmoniFinans" --clean app.py
-
-      - name: Create data directory
-        run: mkdir -p dist/HarmoniFinans.app/Contents/data
-
-      - name: Upload macOS artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: macos-app
-          path: |
-            dist/HarmoniFinans.app
-            dist/HarmoniFinans
-
   build-windows:
     runs-on: windows-latest
     steps:
@@ -67,16 +38,10 @@ jobs:
             dist/data
 
   release:
-    needs: [build-macos, build-windows]
+    needs: [build-windows]
     runs-on: ubuntu-latest
     if: always() && startsWith(github.ref, 'refs/tags/v')
     steps:
-      - name: Download macOS artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: macos-app
-          path: release/macos
-
       - name: Download Windows artifacts
         uses: actions/download-artifact@v4
         with:
@@ -84,15 +49,12 @@ jobs:
           path: release/windows
 
       - name: List downloaded files
-        run: |
-          echo "=== macOS ===" && ls -la release/macos || echo "no macos"
-          echo "=== Windows ===" && ls -la release/windows || echo "no windows"
+        run: ls -la release/windows
 
       - name: Create Release
         uses: softprops/action-gh-release@v1
         with:
           files: |
-            release/macos/HarmoniFinans
             release/windows/HarmoniFinans.exe
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
