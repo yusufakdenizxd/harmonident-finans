@@ -1,0 +1,2081 @@
+[
+  {
+    "id": "29ee6682-5239-4c28-b962-308f5bc1628b",
+    "datetime": "2025-07-11 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0004 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2e1636e3-334e-40bb-97be-e762d06354b2",
+    "datetime": "2025-07-11 00:00:00",
+    "value": -99.5,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0004 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "14d1332e-84a0-4389-ba1d-4d238c0528df",
+    "datetime": "2025-07-12 00:00:00",
+    "value": 2500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0006 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2b68209a-62a1-4654-a954-d619e24cb66a",
+    "datetime": "2025-07-12 00:00:00",
+    "value": -49.77,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0006 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "22f6c403-e9ad-47c7-8b68-cd7a19e5212d",
+    "datetime": "2025-07-18 00:00:00",
+    "value": 750.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0018 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "eb195e9d-5b45-4d20-873a-7750bd204e9d",
+    "datetime": "2025-07-18 00:00:00",
+    "value": -14.93,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0018 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f3d28c99-67be-454a-8d45-2c5d0cd33339",
+    "datetime": "2025-08-15 00:00:00",
+    "value": 1500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0051 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "c7a166da-cb3d-468d-8a77-833ef4bc0cf6",
+    "datetime": "2025-08-15 00:00:00",
+    "value": -29.86,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0051 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "7f1d0c33-b7ae-4cb9-8a93-8a026838f40f",
+    "datetime": "2025-08-19 00:00:00",
+    "value": 8000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0052 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b9fff6a7-3898-4f34-95cd-076c10c1e302",
+    "datetime": "2025-08-19 00:00:00",
+    "value": -159.28,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0052 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f502fbc0-1c09-4614-a300-926a0470c0bc",
+    "datetime": "2025-08-23 00:00:00",
+    "value": 4000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0058 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "115c5cbd-9e7d-48b3-8f93-f8daefa8b6c2",
+    "datetime": "2025-08-23 00:00:00",
+    "value": -79.62,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0058 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "908c0f90-10ff-4e06-972d-eda10c8e7949",
+    "datetime": "2025-09-02 00:00:00",
+    "value": 8500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0062 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8be39963-6f66-4b46-abfc-73ccef01c0be",
+    "datetime": "2025-09-02 00:00:00",
+    "value": -169.23,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0062 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1c34236b-e2e0-4d20-aa30-281aa636f2a8",
+    "datetime": "2025-09-09 00:00:00",
+    "value": 878.3,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0063 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "bd67555d-d7ed-452d-8f76-20748541e113",
+    "datetime": "2025-09-09 00:00:00",
+    "value": -17.48,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0063 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1b6d11c6-296b-4679-a3d9-7641ebbc1b43",
+    "datetime": "2025-09-11 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0064 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b22ddc46-25a2-481e-95cb-41d1e1ac8345",
+    "datetime": "2025-09-11 00:00:00",
+    "value": -39.82,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0064 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "38dc3d78-77e2-4a7a-9041-566463b41394",
+    "datetime": "2025-09-17 00:00:00",
+    "value": 500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0065 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "bef62870-ba23-4fa9-a8a0-41e02c056ba5",
+    "datetime": "2025-09-17 00:00:00",
+    "value": -9.95,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0065 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6ab0e6e3-1a88-47bf-ad6d-d8895067a2bb",
+    "datetime": "2025-09-18 00:00:00",
+    "value": 2500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0066 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e66625bf-b4cd-4056-ba58-14209a0b2bf4",
+    "datetime": "2025-09-18 00:00:00",
+    "value": -49.78,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0066 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "91401239-a7af-4660-8167-e7ca66ecc96f",
+    "datetime": "2025-09-20 00:00:00",
+    "value": 7000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0067 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "987a4abd-b438-4ed8-974b-cf7edb606317",
+    "datetime": "2025-09-20 00:00:00",
+    "value": -139.3,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0067 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "65996d14-69dc-49fb-a4c1-5d052d77d78a",
+    "datetime": "2025-09-23 00:00:00",
+    "value": 3000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0068 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "62e95d66-a9d7-4ecf-afad-3cdc0c0725c5",
+    "datetime": "2025-09-23 00:00:00",
+    "value": -59.73,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0068 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e4e0de97-2c39-41ac-b5fc-0075812a1796",
+    "datetime": "2025-09-28 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0069 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "c24aeced-4f14-4113-9c49-56ddf1ca4314",
+    "datetime": "2025-09-28 00:00:00",
+    "value": -39.82,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0069 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "56180ac8-a9d6-4c60-b6c8-6dc5baad836b",
+    "datetime": "2025-09-30 00:00:00",
+    "value": 12400.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0070 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "0a051a3c-ffc6-449e-8996-335db831f8cc",
+    "datetime": "2025-09-30 00:00:00",
+    "value": -246.87,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0070 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "9a8d07c4-ccd2-46fb-a6f8-271d2e2903f4",
+    "datetime": "2025-10-03 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0071 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "7740c4a3-7ea6-4ad8-88be-d63aee6ac582",
+    "datetime": "2025-10-03 00:00:00",
+    "value": -99.55,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0071 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "52b952a2-31ff-4bfd-a712-0c8628009a75",
+    "datetime": "2025-10-08 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0072 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2a43fb36-f238-41a8-8075-343bbbd36311",
+    "datetime": "2025-10-08 00:00:00",
+    "value": -39.82,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0072 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "dfc846cb-f1bf-4350-8340-cd2c158bd127",
+    "datetime": "2025-10-14 00:00:00",
+    "value": 2400.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0073 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "77498cb1-ff04-4fec-a7c4-ad23496b3b4f",
+    "datetime": "2025-10-14 00:00:00",
+    "value": -47.78,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0073 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a00c2f96-4100-4005-be10-3e6be30c62e1",
+    "datetime": "2025-10-17 00:00:00",
+    "value": 8000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0074 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "0208105e-055a-433f-9a4d-49b6b8deff94",
+    "datetime": "2025-10-17 00:00:00",
+    "value": -159.28,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0074 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e349d05e-0a74-446e-a3b1-a83b9d538030",
+    "datetime": "2025-10-20 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0075 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "beaa6ee7-9bfd-43f1-a264-7a431175f84d",
+    "datetime": "2025-10-20 00:00:00",
+    "value": -39.82,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0075 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "02331b0f-7a56-48f0-b2ff-c3b11f05ae0e",
+    "datetime": "2025-10-23 00:00:00",
+    "value": 17000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0076 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ebd5a663-d27a-4b14-8d8b-51d524128b13",
+    "datetime": "2025-10-23 00:00:00",
+    "value": -338.32,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0076 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "656def19-80ca-4561-8f33-db363c92445f",
+    "datetime": "2025-10-25 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0077 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "bbffc5ad-7706-40ae-a518-cf45f083e3eb",
+    "datetime": "2025-10-25 00:00:00",
+    "value": -39.82,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0077 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a6608a3f-bd6e-4668-a0c0-a06592fcbbc2",
+    "datetime": "2025-10-26 00:00:00",
+    "value": 10000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0078 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "5fb28b38-bedd-408a-8a2f-dca902c8ef61",
+    "datetime": "2025-10-26 00:00:00",
+    "value": -199.1,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0078 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "89270d41-5500-4dff-bbd3-a62fd7fe5990",
+    "datetime": "2025-10-28 00:00:00",
+    "value": 500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0079 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1df02f2c-dd22-480a-b0bd-1fbe6ab00b7e",
+    "datetime": "2025-10-28 00:00:00",
+    "value": -9.95,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0079 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8362eb0e-9208-4699-8a6d-282955586942",
+    "datetime": "2025-10-30 00:00:00",
+    "value": -26330.59,
+    "description": "Sicil No: 28623010111153200770546000, Ad/Ünvan: LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA, Borç Türü: 4101-4A Prim Borcu, S.Ö.T: 31.10.2025, Açıklama: , SGK MOSİP Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "473d9e66-ca6b-4124-86d1-3193ace176ff",
+    "datetime": "2025-11-02 00:00:00",
+    "value": -540.0,
+    "description": "130800000000824 nolu isyerinin 01715541  \\ 0000 nolu pos ve batchinin POS Yazılım/Donanım/Bakım Ücreti Yazarkasa POS",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "26249a23-2417-4458-9e72-46cc16c41204",
+    "datetime": "2025-11-05 00:00:00",
+    "value": -44000.0,
+    "description": "NCC2025000000007 belge numaralı protez fatura bedeli (05/11/2025 tarihli 2187523781 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Enpara Bank A.Ş. Nagehan ışık cengiz hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "fa61a617-8af9-4c8c-b9e5-f53c728d7611",
+    "datetime": "2025-11-12 00:00:00",
+    "value": -36000.0,
+    "description": "tadilat bedeli (12/11/2025 tarihli 2205969251 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. KARİN TAAHHÜT YAPI İNŞAAT EMLAK SANAYİ TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "9e6d585a-235d-4b28-a9e6-e51fd2e97df0",
+    "datetime": "2025-11-19 00:00:00",
+    "value": 2100.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0081 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "419c8e8d-b076-48c9-94e8-2f5fe46ae934",
+    "datetime": "2025-11-21 00:00:00",
+    "value": 9900.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0082 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2ce0f16b-4c59-463e-9bc5-8c209783a8df",
+    "datetime": "2025-11-24 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0080 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f635ded9-76f9-41bf-a1a7-9cee2a9e3842",
+    "datetime": "2025-11-24 00:00:00",
+    "value": -0.02,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0080 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2ea46efe-694f-465f-a78e-c59181079592",
+    "datetime": "2025-11-27 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0085 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "17795b36-f03a-4ec0-bed3-ee8d6b387a8a",
+    "datetime": "2025-11-29 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0081 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e2b5267c-bfcd-4680-9d6e-3fed90c95ed1",
+    "datetime": "2025-11-29 00:00:00",
+    "value": -0.05,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0081 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e0ae5bac-22b3-479c-9f23-cd65e6b81fc8",
+    "datetime": "2025-12-01 00:00:00",
+    "value": 35000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0082 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "62fe0b53-7137-4a15-9691-9e659e1ad466",
+    "datetime": "2025-12-01 00:00:00",
+    "value": -0.35,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0082 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "5b2468c1-0cbf-4803-9d8a-1eee76c1f1fc",
+    "datetime": "2025-12-02 00:00:00",
+    "value": -7490.0,
+    "description": "EFA2025000000513 fatura bedeli (02/12/2025 tarihli 2261257485 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Garanti Bankası A.Ş. BURSA DENTAL DİŞ DEPOSU SAN. VE TİC. LTD. ŞTİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "28fa6432-0876-45da-8ef9-12e1cd1f6073",
+    "datetime": "2025-12-02 00:00:00",
+    "value": -540.0,
+    "description": "130800000000824 nolu isyerinin 01715541  \\ 0000 nolu pos ve batchinin POS Yazılım/Donanım/Bakım Ücreti Yazarkasa POS",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "3f95f1ad-aaaa-4565-95f3-db4d3ac77420",
+    "datetime": "2025-12-03 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0083 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "7580a91c-09d7-43d2-be04-0b04f07974df",
+    "datetime": "2025-12-03 00:00:00",
+    "value": -0.02,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0083 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "73248593-13a3-44b8-abbe-aeadb4d8eb5d",
+    "datetime": "2025-12-05 00:00:00",
+    "value": -53000.0,
+    "description": "borç (05/12/2025 tarihli 2268106864 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Emlak Katılım Bankası A.Ş. muhammet sena karaalp hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "607a5c4d-bb05-4ac1-b56d-512898caeb83",
+    "datetime": "2025-12-06 00:00:00",
+    "value": 10000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0084 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "9a2337b2-0df6-4379-a9fd-2df70f24e1a6",
+    "datetime": "2025-12-07 00:00:00",
+    "value": 9000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0085 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "00f29f08-7821-4444-bbc9-850b3d4d0c81",
+    "datetime": "2025-12-08 00:00:00",
+    "value": 1500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0086 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "cc6291d2-2aa5-4e0d-b75b-5e0ce3e6b394",
+    "datetime": "2025-12-08 00:00:00",
+    "value": -0.01,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0086 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "90b6bd00-739c-4aa1-9ee0-19ffdedd68a3",
+    "datetime": "2025-12-08 00:00:00",
+    "value": -20000.0,
+    "description": "tadilat bedeli (08/12/2025 tarihli 2273410958 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. Karin taahhüt yapı inşaat emlak sanayi ticaret limited şirketi hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "3e98b630-962d-4237-aa37-ad184fd9b9c9",
+    "datetime": "2025-12-09 00:00:00",
+    "value": 15500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0087 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "d4154ec1-92bb-4241-924d-8e5ba3f6c7ad",
+    "datetime": "2025-12-09 00:00:00",
+    "value": -0.15,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0087 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "25f45ec5-6d51-49d6-8bc2-c77d648f31cf",
+    "datetime": "2025-12-10 00:00:00",
+    "value": 750.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0088 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "54a4402c-76e3-4799-8630-0da670a6d10d",
+    "datetime": "2025-12-11 00:00:00",
+    "value": 1500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0089 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f8ad5778-c3d1-47fc-8dc4-5b0fa5d3d165",
+    "datetime": "2025-12-11 00:00:00",
+    "value": -0.01,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0089 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "d639ef01-97fd-4f92-8eae-7a4637fc4e96",
+    "datetime": "2025-12-11 00:00:00",
+    "value": -18500.0,
+    "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a0b980a5-4689-4a27-9c9e-24e2a03fbb08",
+    "datetime": "2025-12-13 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0090 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "13722d9a-96b7-4284-9bba-c2cfe39df480",
+    "datetime": "2025-12-13 00:00:00",
+    "value": -0.02,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0090 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ee33dbfc-c1bc-4810-982c-676675d6220e",
+    "datetime": "2025-12-15 00:00:00",
+    "value": 8500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0091 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "72aa1b58-95d9-4a6b-96d0-7f14d0a5b831",
+    "datetime": "2025-12-15 00:00:00",
+    "value": -0.08,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0091 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "83f93062-50b1-4643-8e01-d458cbed5ddf",
+    "datetime": "2025-12-17 00:00:00",
+    "value": 1250.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0092 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "fa29cbcd-641a-4790-89bf-4ae9a67ccfe6",
+    "datetime": "2025-12-17 00:00:00",
+    "value": -0.01,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0092 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f087215c-6fb3-4bd9-90ac-8f1d086281bb",
+    "datetime": "2025-12-22 00:00:00",
+    "value": 7000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0093 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6d51c6fa-fe67-4cd5-85c7-304e764fcfe3",
+    "datetime": "2025-12-24 00:00:00",
+    "value": 4280.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0094 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b136b61e-7698-48da-b8e2-949f6aadb9d0",
+    "datetime": "2025-12-24 00:00:00",
+    "value": -0.04,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0094 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8817e5d6-a13f-4abf-8f2b-c7d7d152deca",
+    "datetime": "2025-12-30 00:00:00",
+    "value": 3500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0095 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ccf6bc8d-d0bf-4f34-b88c-d0032e3b4721",
+    "datetime": "2025-12-30 00:00:00",
+    "value": -0.03,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0095 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1a483f36-266c-4993-92ce-cae0933a09ce",
+    "datetime": "2026-01-01 00:00:00",
+    "value": -6000.0,
+    "description": "kendi hesabımıza virman (01/01/2026 tarihli 2328198825 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "50513cc8-1cd3-4629-8f2a-f9b26c5214ce",
+    "datetime": "2026-01-02 00:00:00",
+    "value": 73800.0,
+    "description": "Şirket sermaye ödemesi (02.01.2026 tarihli 202601028716 sorgu no'lu Türkiye Emlak Katılım Bankası A.Ş. BURAK ANIL KARAALP hesabından Lumina dental klinik sağlık turizm inşaat ithalat hesabına gelen FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8a03ee0a-37a4-4596-bd0d-2424f7e94080",
+    "datetime": "2026-01-02 00:00:00",
+    "value": -94399.29,
+    "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ca13786a-dbdc-4da3-8d42-7b52b7cbc2f5",
+    "datetime": "2026-01-03 00:00:00",
+    "value": 4000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0096 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "43dc506f-7309-4885-9fd1-257616ecdad4",
+    "datetime": "2026-01-03 00:00:00",
+    "value": -0.04,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0096 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "19854c70-53b8-4cec-9fb3-ec21d36d44ed",
+    "datetime": "2026-01-03 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0097 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "c96d933c-f081-4273-b372-a3eba760b2fc",
+    "datetime": "2026-01-03 00:00:00",
+    "value": -0.04,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0097 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6a3e2b14-9d6d-4d35-96dc-c4e7b0aed1ad",
+    "datetime": "2026-01-04 00:00:00",
+    "value": 5250.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0099 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b5078837-141c-4830-99d2-950df5362c69",
+    "datetime": "2026-01-05 00:00:00",
+    "value": -1142.0,
+    "description": "Cep Telefon No / Kurumsal Hizmet No: 9960188964, Ad Soyad/Unvan: LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura Numarası: 20252117670692, Son Ödeme Tarihi: 16.01.2026,  Türk Telekom Mobil  (TT Mobil) Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "071cbd66-6232-4414-93cb-ee5691ddd977",
+    "datetime": "2026-01-05 00:00:00",
+    "value": -1681.5,
+    "description": "7045792678 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2025135698919, Son Ödeme Tarihi:16.01.2026Türk Telekom İnternet/TV (TTNET) Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8e343063-d3d6-45f3-a557-17f4fc5a237d",
+    "datetime": "2026-01-06 00:00:00",
+    "value": 4000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0103 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "c7769a01-4026-4b71-a6e9-298098ffb267",
+    "datetime": "2026-01-06 00:00:00",
+    "value": -0.04,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0103 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ba4b27af-4d02-4a61-8f43-74ac896e3077",
+    "datetime": "2026-01-06 00:00:00",
+    "value": -190.5,
+    "description": "2011611765354 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2025110009200, Son Ödeme Tarihi:26.12.2025 Türk Telekom Ses/Data/ICT Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "db8bb22e-e7f5-4954-a646-e830ee12ebd6",
+    "datetime": "2026-01-06 00:00:00",
+    "value": -189.0,
+    "description": "2011611765354 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2025120009089, Son Ödeme Tarihi:27.01.2026 Türk Telekom Ses/Data/ICT Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "c5d8b012-04a1-47dd-a79f-222fc258a751",
+    "datetime": "2026-01-07 00:00:00",
+    "value": 4500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0105 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e8e1134d-b6d3-4072-a79a-61db3092531c",
+    "datetime": "2026-01-07 00:00:00",
+    "value": -0.04,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0105 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f947d517-f5ba-45fe-a194-48f0efd8caa1",
+    "datetime": "2026-01-08 00:00:00",
+    "value": -4000.0,
+    "description": "15-16-17-18nolu ofis için aralık 2025 aidat bedeli (08/01/2026 tarihli 2342816029 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZÜ YÖNETİMİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "47659252-f7ef-44ba-b4ca-e78c7ec2a7ad",
+    "datetime": "2026-01-08 00:00:00",
+    "value": -4000.0,
+    "description": "15-16-17-18nolu ofis için ocak 2026 aidat bedeli (08/01/2026 tarihli 2342816641 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZÜ YÖNETİMİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "0cd8b2c3-948a-41ab-a31d-11a0f00a1b5c",
+    "datetime": "2026-01-08 00:00:00",
+    "value": -3850.0,
+    "description": "GIB2026000000002 nolu fatura ödemesi diş protez laboratuvarı (08/01/2026 tarihli 2343110402 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. vildan akbulak hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "bfc2104a-6bb2-46d9-8c84-e1391b006698",
+    "datetime": "2026-01-10 00:00:00",
+    "value": -3000.0,
+    "description": "şirket hesabına havale (10/01/2026 tarihli 2347374601 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. lumina dental klinik sağlık turizm inşaat ithalat ihracat sanayi ve ticari limited şirketi hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "20d39eab-8ae8-445a-8576-05e5349b9f87",
+    "datetime": "2026-01-13 00:00:00",
+    "value": 6000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0117 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1422525f-c779-4b2d-8754-60e0dbb8c7d6",
+    "datetime": "2026-01-13 00:00:00",
+    "value": -0.06,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0117 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6c739f11-5591-4503-b40a-dac88792f199",
+    "datetime": "2026-01-17 00:00:00",
+    "value": 3000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0125 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "c6855782-c746-4f3b-9b09-296667fd6222",
+    "datetime": "2026-01-17 00:00:00",
+    "value": 3000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0144 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f8a57d74-d68b-4afa-adc5-bbbeb0568aac",
+    "datetime": "2026-01-18 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0127 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "5f8676ed-d918-4186-89e2-963956614397",
+    "datetime": "2026-01-18 00:00:00",
+    "value": -0.05,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0127 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "5ed1c0fb-6079-405f-86b6-22779957dadf",
+    "datetime": "2026-01-20 00:00:00",
+    "value": 4500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0131 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8e45a876-2de6-486c-a17b-3862028d9249",
+    "datetime": "2026-01-20 00:00:00",
+    "value": -0.04,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0131 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "63ea12f9-a42b-40be-a9d4-c09d6154917c",
+    "datetime": "2026-01-20 00:00:00",
+    "value": -3600.0,
+    "description": "DBF2026000000001 numaralı faturanın ödemesi (20/01/2026 tarihli 2371454657 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. nigar alemdar ekiz hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "97b104f9-1846-4553-8d1f-6b889c7ec7d4",
+    "datetime": "2026-01-27 00:00:00",
+    "value": 500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0143 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "925795c6-82db-4ba4-9d0b-1ebccb0bda8e",
+    "datetime": "2026-01-27 00:00:00",
+    "value": 500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0144 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e7aa7a04-f0df-4265-92a1-1fdeb6e6b5e7",
+    "datetime": "2026-01-27 00:00:00",
+    "value": -791.0,
+    "description": "0015/KDV GERÇEK Tahsilatı Dönem :12/2025/12/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026012601G2O0000251",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2b5930d0-aae6-42eb-a13b-c5a4af85b0bd",
+    "datetime": "2026-01-27 00:00:00",
+    "value": -1430.0,
+    "description": "MCE2026000000023 numaralı faturanın ödemesi (27/01/2026 tarihli 2386355756 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. Mustafa Cem Aypek hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8077be76-063e-4c77-a903-533d713a9cdc",
+    "datetime": "2026-01-28 00:00:00",
+    "value": 3000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0146 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "514a5efb-7f48-40cc-b020-c6580cf72ece",
+    "datetime": "2026-01-28 00:00:00",
+    "value": -0.03,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0146 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b0928bdc-ea39-4d4c-9257-63274bf5271d",
+    "datetime": "2026-01-28 00:00:00",
+    "value": -3711.25,
+    "description": "0033/KUR.GEÇ.V Tahsilatı Dönem :07/2025/09/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2025111401G2O0000033",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "dedee177-4755-4a95-bf99-ee37979957aa",
+    "datetime": "2026-01-28 00:00:00",
+    "value": -744.14,
+    "description": "0015/KDV GERÇEK Tahsilatı Dönem :09/2025/09/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2025102401G2O0000207",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "5d5ac166-f112-4f6d-88ae-0dd1bbd8d9c4",
+    "datetime": "2026-01-28 00:00:00",
+    "value": -689.61,
+    "description": "0015/KDV GERÇEK Tahsilatı Dönem :11/2025/11/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2025122701G2O0000004",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1427a9c1-e466-419d-a21a-3cd1457a4b46",
+    "datetime": "2026-01-28 00:00:00",
+    "value": -19259.0,
+    "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "63e099b6-517e-4640-bb67-4674062d77a4",
+    "datetime": "2026-01-31 00:00:00",
+    "value": 30000.0,
+    "description": "Şirket sermaye ödemesi (31.01.2026 tarihli 7271826 sorgu no'lu Kuveyt Türk Katılım Bankası A.Ş. BURAK ANIL KARAALP hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETi hesabına gelen FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b1d40fad-77a8-4bc3-88ff-fd3404827804",
+    "datetime": "2026-01-31 00:00:00",
+    "value": -30000.0,
+    "description": "9467/AĞIZDİŞRUH.H Tahsilatı Dönem :01/2026/12/2026 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026011901G2r0000159",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "531e0b88-fbd6-410c-8698-0d7aa7151c91",
+    "datetime": "2026-02-01 00:00:00",
+    "value": 1750.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0153 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "266b3c1f-1341-4b11-91a3-8a5269b83a44",
+    "datetime": "2026-02-01 00:00:00",
+    "value": -0.01,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0153 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1114b1c6-992f-4645-8eb0-8e34b9594377",
+    "datetime": "2026-02-02 00:00:00",
+    "value": 30000.0,
+    "description": "KENDİ ŞİRKET HESABIMA PARA TRANSFERİ (02.02.2026 tarihli 4038515 sorgu no'lu Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT  SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına gelen FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "cb737542-662d-4c9b-a5e5-aeb64143f216",
+    "datetime": "2026-02-02 00:00:00",
+    "value": -29352.46,
+    "description": "Sicil No: 28623010111153200770546000, Ad/Ünvan: LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA, Borç Türü: 4101-4A Prim Borcu, S.Ö.T: 02.02.2026, Açıklama: , SGK MOSİP Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "835f19e6-54a3-4737-a7b0-82a55b9dbef5",
+    "datetime": "2026-02-02 00:00:00",
+    "value": 96562.0,
+    "description": "Kendi şirket hesabıma transfer (02.02.2026 tarihli 4091333 sorgu no'lu Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE LİMİTED ŞİRKETİ hesabına gelen FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "578d79b1-3c98-4e90-8093-a7d4dcdee2e5",
+    "datetime": "2026-02-02 00:00:00",
+    "value": -98960.01,
+    "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6e93d720-74b3-476e-b540-c9b9f28cdcd7",
+    "datetime": "2026-02-03 00:00:00",
+    "value": 12000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0157 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "789b754f-43cc-4278-a9e5-1db2f6d4710b",
+    "datetime": "2026-02-03 00:00:00",
+    "value": -0.12,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0157 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "d47f3b23-1be5-4db6-aad1-ad4524fd91ec",
+    "datetime": "2026-02-04 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0159 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ba69fb8f-e9b4-4ae3-981c-59d6c486cbd6",
+    "datetime": "2026-02-04 00:00:00",
+    "value": -0.05,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0159 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ab0f4836-8905-481e-bf92-c8218629468b",
+    "datetime": "2026-02-05 00:00:00",
+    "value": 1000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0161 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "de73fee2-76ea-4501-b363-35f58407f6af",
+    "datetime": "2026-02-07 00:00:00",
+    "value": 2000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0165 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "855927f7-65ab-4ca5-8222-e87f6185a409",
+    "datetime": "2026-02-07 00:00:00",
+    "value": 8500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0185 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "be54b16a-459b-47e7-a7aa-964af68899da",
+    "datetime": "2026-02-08 00:00:00",
+    "value": 500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0167 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2f5081ab-043a-4fc6-8aa8-71da39e268b8",
+    "datetime": "2026-02-08 00:00:00",
+    "value": -1617.16,
+    "description": "N289948 (08/02/2026 tarihli 2412642039 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Garanti Bankası A.Ş. Niobe hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ad6d8a67-7c81-4c55-b0e9-6afbbd3a1e85",
+    "datetime": "2026-02-09 00:00:00",
+    "value": 6500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0169 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "deefbd5b-5c81-40c9-ad37-2576c5eceaa5",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -0.06,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0169 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "bf8be221-57fe-406b-a03d-0a39183fbe24",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -4500.36,
+    "description": "Sözleşme Numarası: 23110739, Tekil Numarası: 3847855,Fatura Numarası: 29203|2026011516063EVAV,Müşteri Durumu:Uludağ Elektrik,Son Ödeme Tarihi: 26.01.2026,Ad Soyad/Unvan: L****A D****L K****K S****K T****M İ***,Uludağ Elektrik Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6d202317-58b0-4b6c-a7d8-8bf7e2da507b",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -2569.15,
+    "description": "Sözleşme Numarası: 23110878, Tekil Numarası: 3847857,Fatura Numarası: 29203|2026011516062D3KF,Müşteri Durumu:Uludağ Elektrik,Son Ödeme Tarihi: 26.01.2026,Ad Soyad/Unvan: L****A D****L K****K S****K T****M İ***,Uludağ Elektrik Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "156c5771-8496-45a4-892d-44d361547fe0",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -1681.0,
+    "description": "7045792678 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2026010797898, Son Ödeme Tarihi:16.02.2026Türk Telekom İnternet/TV (TTNET) Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "3045b9c0-3e7c-4b86-9225-db7d2eb75238",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -1320.25,
+    "description": "Cep Telefon No / Kurumsal Hizmet No: 9960188964, Ad Soyad/Unvan: LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura Numarası: 20262136530714, Son Ödeme Tarihi: 16.02.2026,  Türk Telekom Mobil  (TT Mobil) Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1e8cab9d-7bbe-4179-b07a-fdacb8e6e80f",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -192.5,
+    "description": "2011611765354 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2026010009107, Son Ödeme Tarihi:27.02.2026 Türk Telekom Ses/Data/ICT Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f167f83e-4ac1-4464-9515-d20373fed80d",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -1150.0,
+    "description": "PR12025000000269 numaralı faturanın ödemesi (09/02/2026 tarihli 2413766533 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. LİDER TMSM İŞ SAĞLIĞI İŞ GÜVENLİĞİ EĞİTİM DANIŞMANLIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "73251375-4eb9-405d-bc0e-21c1737fef68",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -1840.0,
+    "description": "LR02026000000072 numaralı faturanın ödemesi (09/02/2026 tarihli 2413789626 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. LİDER TMSM İŞ SAĞLIĞI İŞ GÜVENLİĞİ EĞİTİM DANIŞMANLIK   SAĞLIK TURIZM İNŞAAT TAAH SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "971e8b52-7ac3-432b-bd3e-aaff8438c1d8",
+    "datetime": "2026-02-09 00:00:00",
+    "value": -20588.7,
+    "description": "2026 yılı Ocak dönemi maaş ödemesi (09/02/2026 tarihli 2413798524 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. MUSA GÖKSU hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6860f39f-e1da-41de-8583-44834900573e",
+    "datetime": "2026-02-10 00:00:00",
+    "value": 8500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0171 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "04c75446-3559-4819-b5e3-5844535b4759",
+    "datetime": "2026-02-10 00:00:00",
+    "value": -0.08,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0171 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "62203aa0-f670-45cb-9f4c-9efedce54289",
+    "datetime": "2026-02-11 00:00:00",
+    "value": 13000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0173 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e74842fe-df9c-474b-9599-dfc64853fa3f",
+    "datetime": "2026-02-12 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0175 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a587ebcd-3ae4-4648-a1a7-6ab6b03dbd16",
+    "datetime": "2026-02-12 00:00:00",
+    "value": 1500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0193 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8bf345bb-e877-4321-9d31-6f7644f2cb81",
+    "datetime": "2026-02-13 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0195 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2ca08370-41ba-494e-8eee-dc3267ab57fe",
+    "datetime": "2026-02-15 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0199 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "9d359a59-d9db-4454-8af6-c363ea5294c0",
+    "datetime": "2026-02-16 00:00:00",
+    "value": 9000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0183 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a1d48f21-8579-41d2-9003-8915467533a6",
+    "datetime": "2026-02-16 00:00:00",
+    "value": -0.09,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0183 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "95bc0ff4-3492-4c70-8770-cad7856c665e",
+    "datetime": "2026-02-19 00:00:00",
+    "value": 49375.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0189 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "7ed64cf8-f77c-4249-87bd-745f489c6236",
+    "datetime": "2026-02-20 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0209 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "50debbf0-a7cf-4cad-8d65-c75bd7874649",
+    "datetime": "2026-02-21 00:00:00",
+    "value": 3500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0191 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "db8e2cb1-e9e4-45ed-a7c6-fb4445ecad92",
+    "datetime": "2026-02-21 00:00:00",
+    "value": -5939.7,
+    "description": "0003/G.STOPAJ Tahsilatı Dönem :01/2026/01/2026 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026021801G2O0000019",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2eb9b5b4-1094-4b83-aa35-20089ab51e7c",
+    "datetime": "2026-02-22 00:00:00",
+    "value": 35000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0193 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a86db10a-110f-4a5c-b77f-d16246400536",
+    "datetime": "2026-02-22 00:00:00",
+    "value": -0.35,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0193 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a3785b94-b754-471c-9097-c859e52a56f6",
+    "datetime": "2026-02-23 00:00:00",
+    "value": 11000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0195 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "fed43eb9-9900-4e42-abb0-fec4fe6f4b74",
+    "datetime": "2026-02-23 00:00:00",
+    "value": -0.11,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0195 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "cbb0d596-3c63-4dd4-afda-61f02c2fdfa8",
+    "datetime": "2026-02-25 00:00:00",
+    "value": 48000.0,
+    "description": "Kendi şirket hesabıma transfer (25.02.2026 tarihli 4046952 sorgu no'lu Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE LİMİTED ŞİRKETİ hesabına gelen FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "3e0bc974-5888-4768-953f-5abbd46b4d00",
+    "datetime": "2026-02-25 00:00:00",
+    "value": -46873.91,
+    "description": "Sicil No: 28623010111153200770546000, Ad/Ünvan: LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA, Borç Türü: 4101-4A Prim Borcu, S.Ö.T: 02.03.2026, Açıklama: , SGK MOSİP Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1342d830-dc9b-4224-b822-6f4e2b8421d0",
+    "datetime": "2026-02-26 00:00:00",
+    "value": 16000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0201 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "f712764a-a26c-4aeb-9a9a-d04e08782e53",
+    "datetime": "2026-02-26 00:00:00",
+    "value": -0.08,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0201 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "d2deb94a-5ad2-4b3a-b6c3-837dfe73b4dd",
+    "datetime": "2026-03-01 00:00:00",
+    "value": 11800.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0207 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "543744d5-4e74-4a7c-8117-3057bb1a56c8",
+    "datetime": "2026-03-01 00:00:00",
+    "value": -0.11,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0207 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "1605b24d-5ee3-4bbb-8474-586b34e6e958",
+    "datetime": "2026-03-01 00:00:00",
+    "value": 3000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0227 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "41b0ebeb-77bc-4bdf-b1d6-81e1a7fb47df",
+    "datetime": "2026-03-01 00:00:00",
+    "value": -156441.77,
+    "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a6b94d54-d821-40af-ba4a-61af15f1c566",
+    "datetime": "2026-03-01 00:00:00",
+    "value": -4000.0,
+    "description": "15-16-17-18nolu ofis için şubat 2026 aidat bedeli (01/03/2026 tarihli 2459359244 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZÜ YÖNETİMİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "2afdfbc8-0714-4c27-98b1-72fc866f20cd",
+    "datetime": "2026-03-01 00:00:00",
+    "value": 64500.0,
+    "description": "Şirket hesabına para transferi (01.03.2026 tarihli 202603011795 sorgu no'lu Türkiye Emlak Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Lumina dental klinik sağlık turizm inşaat ithalat ihracat sanayi ve ticaret limited şirketi hesabına gelen FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b933792b-977b-4b05-996a-6eda11b25855",
+    "datetime": "2026-03-01 00:00:00",
+    "value": -79000.0,
+    "description": "itero senet ödemesi (01/03/2026 tarihli 2459373664 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. Anka Tıbbi Malz. Ltd.Şti. hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "274b927d-0bdf-4ab9-8381-9b1c79ba432c",
+    "datetime": "2026-03-02 00:00:00",
+    "value": 10000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0209 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "d4ef33c2-ef62-4401-b84c-76c685a2a4bc",
+    "datetime": "2026-03-02 00:00:00",
+    "value": -791.0,
+    "description": "0015/KDV GERÇEK Tahsilatı Dönem :01/2026/01/2026 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026022801G2O0000039",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "e269b614-80d8-4e21-98d6-bff8e5c7014e",
+    "datetime": "2026-03-04 00:00:00",
+    "value": 14000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0213 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "dbcf6ffc-fda1-4fe0-baba-2418565f9012",
+    "datetime": "2026-03-04 00:00:00",
+    "value": -4000.0,
+    "description": "2026 Ocak dönemi aidat ödemesi (04/03/2026 tarihli 2466797943 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZİ YÖNETİMİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b1e79487-54c8-47bd-b6ab-89e262c520e8",
+    "datetime": "2026-03-04 00:00:00",
+    "value": -1840.0,
+    "description": "LR02026000000073 numaralı faturanın ödemesi (04/03/2026 tarihli 2466831650 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. LİDER TMSM İŞ SAĞLIĞI İŞ GÜVENLİĞİ EĞİTİM DANIŞMANLIK   SAĞLIK TURIZM İNŞAAT TAAH SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "8e2acb2c-b79c-4f80-b324-f8a23a092293",
+    "datetime": "2026-03-07 00:00:00",
+    "value": 22912.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0219 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "213d2360-ebf7-4a5a-bb82-8597eae38361",
+    "datetime": "2026-03-07 00:00:00",
+    "value": 11000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0239 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "93e940e6-1c87-4a50-94cc-3dea3a07e7a0",
+    "datetime": "2026-03-09 00:00:00",
+    "value": 21000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0243 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b13924c7-d172-4eda-95dc-8bd6250e618b",
+    "datetime": "2026-03-10 00:00:00",
+    "value": 24000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0225 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "a74f7091-d8fd-4ac6-9fba-297f68751178",
+    "datetime": "2026-03-10 00:00:00",
+    "value": -0.1,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0225 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "7e883f26-e1f5-448e-9015-bedd9c23bb0f",
+    "datetime": "2026-03-11 00:00:00",
+    "value": 7000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0227 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "c0ee173d-b2bc-4cae-8ad2-f3b50980f64d",
+    "datetime": "2026-03-11 00:00:00",
+    "value": 500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0247 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "86b42efe-09a3-4b73-bd97-fb3bb72989dd",
+    "datetime": "2026-03-12 00:00:00",
+    "value": -100000.0,
+    "description": "tadilat bedeli (12/03/2026 tarihli 2484056168 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. KARİN TAAHHÜT YAPI İNŞAAT EMLAK SANAYİ TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "d3d84f29-0056-40dc-a257-0d63a8748da0",
+    "datetime": "2026-03-12 00:00:00",
+    "value": 54000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0229 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "7636e703-b893-4659-bb56-e12c630baade",
+    "datetime": "2026-03-12 00:00:00",
+    "value": -0.15,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0229 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "60880f55-fcc3-4c9d-844d-cae71e97bf7c",
+    "datetime": "2026-03-14 00:00:00",
+    "value": 45000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0233 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "eb6a3be8-69fc-4558-acbc-8c26af000da1",
+    "datetime": "2026-03-14 00:00:00",
+    "value": -0.35,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0233 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "867edb49-695d-4f7d-a805-a5fcb1a76847",
+    "datetime": "2026-03-16 00:00:00",
+    "value": 9000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0237 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "4f8a2922-0e25-4009-b16c-aa5d69396952",
+    "datetime": "2026-03-16 00:00:00",
+    "value": -3776.0,
+    "description": "Sözleşme Numarası: 23110739, Tekil Numarası: 3847855,Fatura Numarası: 29203|20260313144130664,Müşteri Durumu:Uludağ Elektrik,Son Ödeme Tarihi: 23.03.2026,Ad Soyad/Unvan: L****A D****L K****K S****K T****M İ***,Uludağ Elektrik Tahsilatı",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "b9e04e16-a3c9-41a7-9b41-1a735ae23499",
+    "datetime": "2026-03-18 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0241 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "6a9b1408-96d9-472a-bae1-210bfc021dc8",
+    "datetime": "2026-03-18 00:00:00",
+    "value": -100000.0,
+    "description": "tadilat bedeli (18/03/2026 tarihli 2504938478 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. KARİN TAAHHÜT YAPI İNŞAAT EMLAK SANAYİ TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "53de304c-f19d-40a7-b0d6-4f8339eaf10c",
+    "datetime": "2026-03-23 00:00:00",
+    "value": 3000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0251 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "5d4ac0bc-d28d-4d5b-90df-b3839a3e0e84",
+    "datetime": "2026-03-25 00:00:00",
+    "value": 10000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0255 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "ede36385-eb3e-4c49-92e4-7d0735ed261d",
+    "datetime": "2026-03-25 00:00:00",
+    "value": -1375.0,
+    "description": "MCE2026000000068 numaralı faturanın ödemesi (25/03/2026 tarihli 2518142990 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. Mustafa Cem Aypek hesabına giden FAST ödemesi)",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "aaf7ee25-ebde-452f-b32c-0b00e1a6a494",
+    "datetime": "2026-03-26 00:00:00",
+    "value": 16500.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0257 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "3c6aa426-4bd0-4cd0-bb4b-2d3d0ab4ba56",
+    "datetime": "2026-03-26 00:00:00",
+    "value": -0.06,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0257 nolu pos ve batchinin komisyonu",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "68057472-086c-4ba9-bc04-d0f55c0893f0",
+    "datetime": "2026-03-27 00:00:00",
+    "value": 5000.0,
+    "description": "130800000000824 nolu isyerinin 01715541 \\ 0279 nolu pos ve batchinin satış işlemleri",
+    "bank_name": "Vakif"
+  },
+  {
+    "id": "9c37ae65-1339-4b5a-a50e-c4328c93669f",
+    "datetime": "2025-06-18 12:35:00",
+    "value": -214.76,
+    "description": "2602471855 Nolu üyeye ait 25006905 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "ff6debce-838a-40cb-8450-9af221380c74",
+    "datetime": "2025-06-18 12:35:00",
+    "value": -10.74,
+    "description": "2602471855 Nolu üyeye ait 25006905 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "73cf2bdf-d301-4988-8dbf-46552a33faeb",
+    "datetime": "2025-06-20 16:30:00",
+    "value": -6450.0,
+    "description": "SN:4052161 ALFA GROUP DENTAL VE MEDİKAL SAĞLIK ÜRÜNLERİ TİCA Açk: cari ödeme  6450.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "7db68d62-a792-4dbe-b19c-baf2bc9356ce",
+    "datetime": "2025-06-30 09:14:00",
+    "value": -173000.0,
+    "description": "SN:2542 SIRONA DENTAL LTD. STi. Açk: sirona taksit    173000.00 TRY GÖN:ALBARAKA Alici Banka: 46 Sube: 90001",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "9e02eca9-dc7a-43fb-a01c-1eade7a4446b",
+    "datetime": "2025-07-02 13:31:00",
+    "value": -53.81,
+    "description": "2602471855 Nolu üyeye ait 25006906 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "dfcd0fe0-9b9c-4313-aa6c-4702cb35ea79",
+    "datetime": "2025-07-02 13:31:00",
+    "value": -2.69,
+    "description": "2602471855 Nolu üyeye ait 25006906 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "615d6d7e-e98b-448c-a301-9e762d5312db",
+    "datetime": "2025-07-25 13:35:00",
+    "value": -256.19,
+    "description": "2602471855 Nolu üyeye ait 25006906 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f1ab4921-e450-4e3a-9d4c-d0216b9f9694",
+    "datetime": "2025-07-25 13:35:00",
+    "value": -12.81,
+    "description": "2602471855 Nolu üyeye ait 25006906 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "7aa3400c-ece1-4fef-9acd-869a26c91f04",
+    "datetime": "2025-07-25 18:33:00",
+    "value": -33233.43,
+    "description": "28623010111153200770546000sicil nolu2755070970SGK Ref. 25/07/2025 son ödeme tarihli prim ödemesi",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "56559c33-ebe1-4788-bfeb-2b16bb9e8c54",
+    "datetime": "2025-07-28 10:17:00",
+    "value": -3960.0,
+    "description": "SN:4011147 eser kayran Açk: GIB2025000000095 fatura no yemek bedeil 3960.00 TRY GÖN:ALBARAKA Alici Banka: 111",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "0ba21d30-e167-4d45-ba08-f2ce28932004",
+    "datetime": "2025-07-30 11:04:00",
+    "value": -79000.0,
+    "description": "SN:4013073 Anka Tıbbi Malz. Ltd.Şti. Açk: Itero 1.senet odemesi 79000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "9560d051-a62b-42c6-9d3d-25d8538ab14b",
+    "datetime": "2025-07-31 10:01:00",
+    "value": -70000.0,
+    "description": "SN:4012126 ALFA GROUP DENTAL VE MEDİKAL SAĞLIK ÜRÜNLERİ TİCA Açk: malzeme ödeme  70000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f12d114b-a12c-4e4a-b09d-f5465b7d3bb5",
+    "datetime": "2025-08-02 13:46:00",
+    "value": -310.0,
+    "description": "2602471855 Nolu üyeye ait 25006907 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "b1dc737f-a17f-41ce-b663-dbc2c2412bc7",
+    "datetime": "2025-08-02 13:46:00",
+    "value": -15.5,
+    "description": "2602471855 Nolu üyeye ait 25006907 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "6b84a73c-421b-4c74-bcab-13dd7947dd1d",
+    "datetime": "2025-08-30 09:29:00",
+    "value": -79000.0,
+    "description": "SN:4006886 Anka Tıbbi Malz. Ltd.Şti. Açk: itero 2. senet ödemesi  79000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "44068df9-6338-4f81-8e3d-3870a8cac647",
+    "datetime": "2025-09-02 13:46:00",
+    "value": -310.0,
+    "description": "2602471855 Nolu üyeye ait 25006908 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "84eee548-813b-45b1-8ed1-955ad59e0576",
+    "datetime": "2025-09-02 13:46:00",
+    "value": -15.5,
+    "description": "2602471855 Nolu üyeye ait 25006908 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "3b514747-8e80-4d8c-901f-499b3cfb2690",
+    "datetime": "2025-09-04 13:17:00",
+    "value": -1100.0,
+    "description": "SN:4028553 mustafa cem aypek Açk: klinik su ödemesi 1100.00 TRY GÖN:ALBARAKA Alici Banka: 10",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "b7b36d0e-b5a5-4528-bf78-0bb9fee06ddb",
+    "datetime": "2025-09-29 09:09:00",
+    "value": -79000.0,
+    "description": "SN:4006905 Anka Tıbbi Malz. Ltd.Şti. Açk: itero 3.senet ödemesi  79000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "e1da988c-7f08-46fc-a8de-5fd3fe676383",
+    "datetime": "2025-09-29 09:16:00",
+    "value": -22104.67,
+    "description": "SN:4007334 merve korucu Açk: 2025 yılı eylül dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "94f2442b-d3b6-49d9-9fa0-e02506ecef71",
+    "datetime": "2025-09-29 09:17:00",
+    "value": -22104.67,
+    "description": "SN:4007430 tülay karahasan Açk: 2025 yılı eylül dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "c6ffb7d4-f391-4b3c-85f3-b57f1fc7e8ee",
+    "datetime": "2025-09-29 09:19:00",
+    "value": -22104.67,
+    "description": "SN:4007528 yasemin polat  Açk: 2025 eylül dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 46",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "64b07c20-01f4-4ab0-b9f0-afe7dc4aacfb",
+    "datetime": "2025-09-29 09:21:00",
+    "value": -8400.0,
+    "description": "SN:4007699 BENZOL ECZA DEPOSU İLAÇ SAN. VE. TİC AŞ. Açk: allergan botox bedeli 8400.00 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "237be46e-1388-48f4-aa59-8a8f411f7538",
+    "datetime": "2025-09-29 18:16:00",
+    "value": -4050.12,
+    "description": "25006907 referanslı POS Zarar Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "d610f3be-4d6f-4887-8cf5-0460303a164b",
+    "datetime": "2025-09-29 18:16:00",
+    "value": -202.51,
+    "description": "25006907 referanslı POS Zarar Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "e1a008b7-687e-4a50-98a0-b4c29a019144",
+    "datetime": "2025-09-29 18:16:00",
+    "value": -2252.59,
+    "description": "25006908 referanslı POS Zarar Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "9c688fc1-f199-402c-ab21-9d19790b630f",
+    "datetime": "2025-09-29 18:16:00",
+    "value": -112.63,
+    "description": "25006908 referanslı POS Zarar Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "4ce69bdc-e123-493d-b474-5aab25fb26da",
+    "datetime": "2025-09-29 23:29:00",
+    "value": -46000.0,
+    "description": "SN:4082808 duha keskin Açk:  46000.00 TRY GÖN:ALBARAKA Alici Banka: 206",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "048e71d6-6e35-4b73-bf8e-a4fe29c81670",
+    "datetime": "2025-10-01 17:56:00",
+    "value": -30363.81,
+    "description": "28623010111153200770546000sicil nolu2805060214SGK Ref. 01/10/2025 son ödeme tarihli prim ödemesi",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "974359f9-8d93-4489-8872-391a9a9bc212",
+    "datetime": "2025-10-02 13:46:00",
+    "value": -78.48,
+    "description": "2602471855 Nolu üyeye ait 25006909 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "baa12745-2173-4d4a-a20a-023a9d3ecdef",
+    "datetime": "2025-10-02 13:46:00",
+    "value": -3.92,
+    "description": "2602471855 Nolu üyeye ait 25006909 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "907f2d9a-478b-4cf1-bed9-724acc48102a",
+    "datetime": "2025-10-02 13:46:00",
+    "value": -231.52,
+    "description": "2602471855 Nolu üyeye ait 25006909 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "c8098b37-1781-41fc-8a0f-ef2546fb1171",
+    "datetime": "2025-10-02 13:46:00",
+    "value": -11.58,
+    "description": "2602471855 Nolu üyeye ait 25006909 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "31dad896-4d13-47ad-b608-f71c6f0152a1",
+    "datetime": "2025-10-30 02:09:00",
+    "value": -79000.0,
+    "description": "SN:4001809 Anka Tıbbi Malz. Ltd.Şti. Açk: itero 4.senet ödemesi  79000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "d5e08c3c-ab26-499d-8805-050caf96ca6f",
+    "datetime": "2025-10-31 11:05:00",
+    "value": -22104.67,
+    "description": "SN:4020846 yasemin polat  Açk: 2025 ekim dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 46",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "a1d23bf1-e53e-434d-acd3-77fa958f16a0",
+    "datetime": "2025-10-31 11:05:00",
+    "value": -22104.67,
+    "description": "SN:4020918 merve korucu Açk: 2025 yılı ekim dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "2e08e328-ec82-46b3-8c15-a3c3ca016d2a",
+    "datetime": "2025-10-31 11:07:00",
+    "value": -22104.67,
+    "description": "SN:4021164 tülay karahasan Açk: 2025 yılı ekim dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f3de161e-1a58-45e8-8a29-a8c16e9e6db9",
+    "datetime": "2025-11-03 13:51:00",
+    "value": -310.0,
+    "description": "2602471855 Nolu üyeye ait 25006910 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f25af93c-32c1-48c1-b3c7-cb11f9d912b8",
+    "datetime": "2025-11-03 13:51:00",
+    "value": -15.5,
+    "description": "2602471855 Nolu üyeye ait 25006910 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f5bacdcb-a388-4cea-aa73-ca699e5aa6db",
+    "datetime": "2025-11-12 14:47:00",
+    "value": -33000.0,
+    "description": "SN:4034381 KARİN TAAHHÜT YAPI İNŞAAT EMLAK SANAYİ TİCARET Lİ Açk: tadilat bedeli 33000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "68d3fc6a-c420-4f98-8413-5f23ef592918",
+    "datetime": "2025-11-17 15:06:00",
+    "value": -1210.0,
+    "description": "SN:4054856 berke önlütürk Açk: su bedeli 1210.00 TRY GÖN:ALBARAKA Alici Banka: 10",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "a430a070-f74b-4ada-be82-ce5f39e9ee86",
+    "datetime": "2025-11-28 21:43:00",
+    "value": -79000.0,
+    "description": "SN:4084806 Anka Tıbbi Malz. Ltd.Şti. Açk: itero 5.senet ödemesi  79000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "9213e1c4-8f99-40c4-b0d2-96c51c626919",
+    "datetime": "2025-11-30 15:11:00",
+    "value": -22104.67,
+    "description": "SN:4019364 tülay karahasan Açk: 2025 yılı kasım dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "7fd9b957-e868-4af4-8d2b-c8f999387c5b",
+    "datetime": "2025-11-30 15:11:00",
+    "value": -22104.67,
+    "description": "SN:4019394 merve korucu Açk: 2025 yılı kasım dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "97b0fdb2-a340-4b33-b5f6-b7f987d6b156",
+    "datetime": "2025-11-30 15:12:00",
+    "value": -22104.67,
+    "description": "SN:4019426 yasemin polat  Açk: 2025 kasım dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 46",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "8100ef05-523a-4c67-bbdc-5fdcac5dbe08",
+    "datetime": "2025-12-01 15:37:00",
+    "value": -310.0,
+    "description": "2602471855 Nolu üyeye ait 25006911 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "2d4f5ed3-591e-48ac-80da-cea727e06d9f",
+    "datetime": "2025-12-01 15:37:00",
+    "value": -15.5,
+    "description": "2602471855 Nolu üyeye ait 25006911 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f0a573d6-2217-46b5-9d25-be083e4940e4",
+    "datetime": "2025-12-03 15:47:00",
+    "value": -60618.0,
+    "description": "SN:4048460 VİLDAN AKBULAK Açk: GIB2025000000017 fatura  protez bedeli 60618.00 TRY GÖN:ALBARAKA Alici Banka: 10",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "23d961b3-baa3-4e1f-8657-192f2bc03000",
+    "datetime": "2025-12-08 18:16:00",
+    "value": -3498.46,
+    "description": "25006911 referanslı POS Zarar Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "6faf3dc5-f85f-4c1e-90aa-2e61dcb00d7e",
+    "datetime": "2025-12-08 18:16:00",
+    "value": -174.92,
+    "description": "25006911 referanslı POS Zarar Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "c4c87c17-593f-4974-96dd-7ee3e9041597",
+    "datetime": "2025-12-15 18:15:00",
+    "value": -1700.45,
+    "description": "25006911 referanslı POS Zarar Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "98cb5ace-5e19-431c-9785-45759af832e4",
+    "datetime": "2025-12-15 18:15:00",
+    "value": -85.02,
+    "description": "25006911 referanslı POS Zarar Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "87c14d2e-221d-4927-b65d-a9858a90e1da",
+    "datetime": "2025-12-24 13:25:00",
+    "value": -1560.0,
+    "description": "SN:4026717 berke önlütürk Açk: su bedeli 1560.00 TRY GÖN:ALBARAKA Alici Banka: 10",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "889655f7-497b-43ae-bc2e-aa9c703fb3cb",
+    "datetime": "2025-12-25 22:58:00",
+    "value": -100000.0,
+    "description": "SN:4073527 ALFA GROUP DENTAL VE MEDİKAL SAĞLIK ÜRÜNLERİ TİCA Açk: dental malzeme bedeli  100000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "9262fec0-4d47-48de-ad1e-21a0e7b92053",
+    "datetime": "2025-12-25 22:59:00",
+    "value": -100000.0,
+    "description": "SN:4073588  ALFA GROUP DENTAL VE MEDİKAL SAĞLIK ÜRÜNLERİ TİC Açk: dental malzeme bedeli 100000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "2bd07d21-03b3-49b6-9870-2ef3a89e7879",
+    "datetime": "2025-12-25 23:00:00",
+    "value": -100000.0,
+    "description": "SN:4073633 ALFA GROUP DENTAL VE MEDİKAL SAĞLIK ÜRÜNLERİ TİCA Açk: dental malzeme bedeli 100000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "1c3b0dd1-65a6-4066-b465-82277d91bf93",
+    "datetime": "2025-12-31 12:19:00",
+    "value": -79000.0,
+    "description": "SN:4029615 Anka Tıbbi Malz. Ltd.Şti. Açk: itero 6.senet ödemesi  79000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "90160601-8c3e-4020-aa5d-5346e6f110ef",
+    "datetime": "2026-01-01 11:20:00",
+    "value": -22104.67,
+    "description": "SN:4013543 yasemin polat  Açk: 2025 aralık dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 46",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "dbe43970-9a78-4e0e-9706-cd739e17beab",
+    "datetime": "2026-01-01 11:56:00",
+    "value": -22104.67,
+    "description": "SN:4015780 merve korucu Açk: 2025 yılı aralık dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "923b0559-d9f0-4a39-b3a6-6eb9aeb8e6c9",
+    "datetime": "2026-01-01 12:00:00",
+    "value": -22104.67,
+    "description": "SN:4016019 tülay karahasan Açk: 2025 yılı aralık dönemi maaş ödemesi 22104.67 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "9c0a7edf-b725-4b08-be1d-ab4ecb3480d6",
+    "datetime": "2026-01-01 14:10:00",
+    "value": -276.21,
+    "description": "2602471855 Nolu üyeye ait 25006912 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "090c04cb-bd99-4f18-aa15-23d232c87ac6",
+    "datetime": "2026-01-01 14:10:00",
+    "value": -13.81,
+    "description": "2602471855 Nolu üyeye ait 25006912 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "2b54f581-f8b8-40c8-9a77-9f67c0db8791",
+    "datetime": "2026-01-01 14:10:00",
+    "value": -33.79,
+    "description": "2602471855 Nolu üyeye ait 25006912 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "ffaa91a4-20e6-4fa9-b351-d8717490d233",
+    "datetime": "2026-01-01 14:10:00",
+    "value": -1.69,
+    "description": "2602471855 Nolu üyeye ait 25006912 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "34e58397-3ba8-477a-8789-7c4ca22df00c",
+    "datetime": "2026-01-29 18:15:00",
+    "value": -3800.0,
+    "description": "25006906 referanslı POS Zarar Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "2bf50c20-5e68-4518-942b-c620887949cd",
+    "datetime": "2026-01-29 18:15:00",
+    "value": -190.0,
+    "description": "25006906 referanslı POS Zarar Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "7d8252c3-c96b-4ef2-9f86-5f36b749283c",
+    "datetime": "2026-01-29 18:15:00",
+    "value": -8089.37,
+    "description": "25006912 referanslı POS Zarar Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "e7e60869-ab9a-4078-954c-1ee4ca280ff2",
+    "datetime": "2026-01-29 18:15:00",
+    "value": -404.47,
+    "description": "25006912 referanslı POS Zarar Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "942a671d-d48a-44f1-bbc7-6dbf5a14043d",
+    "datetime": "2026-02-02 12:58:00",
+    "value": -30000.0,
+    "description": "SN:4038515 LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT Açk: KENDİ ŞİRKET HESABIMA PARA TRANSFERİ 30000.00 TRY GÖN:ALBARAKA Alici Banka: 15",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "20df0145-25e9-4cb8-ba4a-1d1aef9ee3b6",
+    "datetime": "2026-02-02 14:05:00",
+    "value": -79000.0,
+    "description": "SN:4048745 Anka Tıbbi Malz. Ltd.Şti. Açk: itero senet ödemesi  79000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "4fa4785a-ebc0-40c5-a83c-ed156b028420",
+    "datetime": "2026-02-02 17:58:00",
+    "value": -28075.5,
+    "description": "SN:4086926 merve korucu Açk: 2026 yılı ocak dönemi maaş ödemesi 28075.50 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "d40ccde6-fb8a-49ed-9a6e-0746f8e18ed5",
+    "datetime": "2026-02-02 18:08:00",
+    "value": -28075.5,
+    "description": "SN:4088123 yasemin polat Açk: 2026 yılı ocak ayı maaş ödemesi 28075.50 TRY GÖN:ALBARAKA Alici Banka: 10",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f0acffc1-0f1a-40bd-9d22-45a3f88a7495",
+    "datetime": "2026-02-02 18:09:00",
+    "value": -28075.5,
+    "description": "SN:4088321 tülay karahasan Açk: 2026 yılı ocak dönemi maaş ödemesi 28075.50 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "1188ca11-fb44-479c-a7be-1b691f6f8468",
+    "datetime": "2026-02-02 18:11:00",
+    "value": -9358.5,
+    "description": "SN:4088562 tuğba aygen Açk: 2026 yılı ocak dönemi maaş ödemesi 9358.50 TRY GÖN:ALBARAKA Alici Banka: 10",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "5e13de0a-b887-4fd0-9a99-d2d19a8eeb20",
+    "datetime": "2026-02-02 18:18:00",
+    "value": -6550.95,
+    "description": "SN:4089335 yıldız an Açk: 2026 yılı ocak dönemi maaş ödemesi 6550.95 TRY GÖN:ALBARAKA Alici Banka: 67",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "d915cf85-07e9-4a93-a324-ca91c74f14bb",
+    "datetime": "2026-02-02 18:37:00",
+    "value": -96562.0,
+    "description": "SN:4091333 LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT Açk: Kendi şirket hesabıma transfer 96562.00 TRY GÖN:ALBARAKA Alici Banka: 15",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "1eb5424e-5b41-465f-a029-f1334094ce54",
+    "datetime": "2026-02-03 13:32:00",
+    "value": -310.0,
+    "description": "2602471855 Nolu üyeye ait 26006901 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "7049d29a-d89c-49b3-9609-5b1061d5eddc",
+    "datetime": "2026-02-03 13:32:00",
+    "value": -15.5,
+    "description": "2602471855 Nolu üyeye ait 26006901 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "d9a0c6e0-ed23-494e-9cc9-15d5b71d85c8",
+    "datetime": "2026-02-25 15:41:00",
+    "value": -180000.0,
+    "description": "SN:14717 muhammet sena karaalp Açk: 15-16-17 nolu ofis 2025 yılı kira bedeli   180000.00 TRY GÖN:ALBARAKA Alici Banka: 211 Sube: 90001",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "8739903f-d90f-46ba-a506-3855ccf46bf9",
+    "datetime": "2026-02-25 16:28:00",
+    "value": -30000.0,
+    "description": "SN:4046232 bilal kaya Açk: GIB2026000000001 nolu fatura bedeli emlak komisyonu  30000.00 TRY GÖN:ALBARAKA Alici Banka: 205",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "e8c402b9-eafb-4ee2-941b-4e1e6fb2c6ee",
+    "datetime": "2026-02-25 16:35:00",
+    "value": -48000.0,
+    "description": "SN:4046952 LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT Açk: Kendi şirket hesabıma transfer 48000.00 TRY GÖN:ALBARAKA Alici Banka: 15",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "4771ec43-69b3-4dbb-872c-16c616e9027f",
+    "datetime": "2026-02-25 18:25:00",
+    "value": -65000.0,
+    "description": "SN:4056968 Nagehan ışık cengiz Açk: NCC2026000000003 nolu fatura laboratuvar ücreti 65000.00 TRY GÖN:ALBARAKA Alici Banka: 157",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "25f7109c-6fb2-460d-9832-06293d6b4920",
+    "datetime": "2026-02-28 16:12:00",
+    "value": -28075.5,
+    "description": "SN:4042880 tülay karahasan Açk: 2026 yılı şubat dönemi maaş ödemesi 28075.50 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "f2f71aa9-a407-4831-95a8-9286baecf394",
+    "datetime": "2026-02-28 16:13:00",
+    "value": -28075.5,
+    "description": "SN:4042966 yasemin polat Açk: 2026 yılı şubat ayı maaş ödemesi 28075.50 TRY GÖN:ALBARAKA Alici Banka: 10",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "360ef96e-fc2f-4af7-914e-41d16edd3b65",
+    "datetime": "2026-02-28 16:13:00",
+    "value": -28075.5,
+    "description": "SN:4043044 merve korucu Açk: 2026 yılı şubat dönemi maaş ödemesi 28075.50 TRY GÖN:ALBARAKA Alici Banka: 62",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "bcb9f0f4-6d3b-48f4-a95e-93e032959528",
+    "datetime": "2026-02-28 16:14:00",
+    "value": -28075.5,
+    "description": "SN:4043148 yıldız an Açk: 2026 yılı şubat dönemi maaş ödemesi 28075.50 TRY GÖN:ALBARAKA Alici Banka: 67",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "d64325c0-7758-48f0-ae7c-9db04a012358",
+    "datetime": "2026-03-01 15:03:00",
+    "value": -310.0,
+    "description": "2602471855 Nolu üyeye ait 26006902 referanslı POS ÖKC Bedeli Komisyon Tahsilatı",
+    "bank_name": "Albaraka"
+  },
+  {
+    "id": "c9cb808f-2159-4191-996d-9c0219be7202",
+    "datetime": "2026-03-01 15:03:00",
+    "value": -15.5,
+    "description": "2602471855 Nolu üyeye ait 26006902 referanslı POS ÖKC Bedeli Komisyon BSMV Tahsilatı",
+    "bank_name": "Albaraka"
+  }
+]
