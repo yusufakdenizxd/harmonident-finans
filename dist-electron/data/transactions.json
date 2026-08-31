@@ -1,0 +1,1663 @@
+{
+  "transactions": [
+    {
+      "datetime": "2025-07-10T22:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0004 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "7f15f4ce-f7b0-45e9-8617-08074b026ed5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-07-10T22:00:00.000Z",
+      "value": -99.5,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0004 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "6ae2843c-c15a-4676-ba6a-21cf25b4e09c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-07-11T22:00:00.000Z",
+      "value": 2500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0006 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "1c98c4f2-1bb4-4038-a7f1-ee9b036952a9",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-07-11T22:00:00.000Z",
+      "value": -49.77,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0006 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "f5e84c8d-81b3-4982-9868-ee1f5853ec12",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-07-17T22:00:00.000Z",
+      "value": 750,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0018 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "41689ccb-f0a6-425a-ab62-c9f0e1c81650",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-07-17T22:00:00.000Z",
+      "value": -14.93,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0018 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "6301a75e-cb56-45b3-8e1b-144faf1cea68",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-08-14T22:00:00.000Z",
+      "value": 1500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0051 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "fbd27d7a-498c-4ab9-a13e-b078651b818d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-08-14T22:00:00.000Z",
+      "value": -29.86,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0051 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "b2549c8d-149f-43e0-8944-6f67731c9388",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-08-18T22:00:00.000Z",
+      "value": 8000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0052 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "74288875-eaa6-4623-b086-c5189c9a4387",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-08-18T22:00:00.000Z",
+      "value": -159.28,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0052 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "6103f921-bf11-4df0-b49f-f77dc6aed8d9",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-08-22T22:00:00.000Z",
+      "value": 4000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0058 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "ad286c4f-7885-4e3f-84d0-24a15da25331",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-08-22T22:00:00.000Z",
+      "value": -79.62,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0058 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "b224eeb5-545f-406f-9a55-3293f66cb4e0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-01T22:00:00.000Z",
+      "value": 8500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0062 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "6be82f00-6cdf-4411-94c0-b5cdda57168c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-01T22:00:00.000Z",
+      "value": -169.23,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0062 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "dc562e97-81fd-4bf0-8698-3eb2fd3df1f3",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-08T22:00:00.000Z",
+      "value": 878.3,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0063 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "4242b707-2c68-42ba-b320-a7c2c091ad1a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-08T22:00:00.000Z",
+      "value": -17.48,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0063 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "360c54ff-e0f8-4e2a-9226-4320beeaa88c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-10T22:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0064 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "4c989c5e-0d70-48a7-be72-1c9e79da84fd",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-10T22:00:00.000Z",
+      "value": -39.82,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0064 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "8a25ec79-66ad-4466-9c8e-850d98baee23",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-16T22:00:00.000Z",
+      "value": 500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0065 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8e295022-223f-4314-9478-1ed51cf91f41",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-16T22:00:00.000Z",
+      "value": -9.95,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0065 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "b7f29785-b699-4fc2-9d77-100c0ef60913",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-17T22:00:00.000Z",
+      "value": 2500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0066 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "239aa04a-6521-4174-bb18-8aa804b04411",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-17T22:00:00.000Z",
+      "value": -49.78,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0066 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "eafcfd93-e166-4eeb-81bf-e024bf99f923",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-19T22:00:00.000Z",
+      "value": 7000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0067 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "cff2945f-e1b6-47fc-b89c-c6d2714d987d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-19T22:00:00.000Z",
+      "value": -139.3,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0067 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "740f4751-a9b8-4989-873b-83962b7d28bb",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-22T22:00:00.000Z",
+      "value": 3000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0068 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "0e18e2f9-206c-40a1-89ab-05318d390734",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-22T22:00:00.000Z",
+      "value": -59.73,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0068 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "b1e3b345-ed13-435b-b234-1c154aa70d34",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-27T22:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0069 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "bea2cf59-0011-4153-bea0-43fa0ccbb62b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-27T22:00:00.000Z",
+      "value": -39.82,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0069 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "2e031e9c-13fd-4f70-baea-436078d3849b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-29T22:00:00.000Z",
+      "value": 12400,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0070 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "1bd759e6-4ad5-46f3-90ac-ca259ed863c9",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-09-29T22:00:00.000Z",
+      "value": -246.87,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0070 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "27e5619b-0464-4152-b84f-d061df3af9dd",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-02T22:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0071 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "d9c65266-1311-4be0-b1fd-c8a04e53467b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-02T22:00:00.000Z",
+      "value": -99.55,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0071 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "f8b1ab27-0564-45ac-9627-fcc076c5beec",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-07T22:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0072 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "17a7910a-0ee4-453d-b4c1-71085d59b9e5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-07T22:00:00.000Z",
+      "value": -39.82,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0072 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "44027aca-7cba-4505-964b-62a2c022e184",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-13T22:00:00.000Z",
+      "value": 2400,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0073 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "c9488eef-af5e-4e5f-93ff-1eeb690b7676",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-13T22:00:00.000Z",
+      "value": -47.78,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0073 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "c0c79760-6bc7-4f57-a149-9ffa3f0453d8",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-16T22:00:00.000Z",
+      "value": 8000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0074 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "c9600327-cde4-4507-842f-cb87cbc053f4",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-16T22:00:00.000Z",
+      "value": -159.28,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0074 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "73ed09c2-dd37-4dfa-842a-5b60ec74ed05",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-19T22:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0075 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "c919394f-2e41-4643-81b0-60bfbfadd8ea",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-19T22:00:00.000Z",
+      "value": -39.82,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0075 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "020f6e38-d01f-4cb0-acbc-a83e3f3002c0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-22T22:00:00.000Z",
+      "value": 17000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0076 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8609fcf6-0f47-4080-a8bd-c30dafb077af",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-22T22:00:00.000Z",
+      "value": -338.32,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0076 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "5976c62e-4502-4ae1-9610-322a03094e8c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-24T22:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0077 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "1c15a779-16d9-42f9-9db9-b0c87fb2243e",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-24T22:00:00.000Z",
+      "value": -39.82,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0077 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "005c89b7-7698-4d5c-8d2c-d598b38f666e",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-25T22:00:00.000Z",
+      "value": 10000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0078 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "f1dbc6f0-2354-4ef6-94dd-e0bcaba9c313",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-25T22:00:00.000Z",
+      "value": -199.1,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0078 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "82fc0b4d-e74e-4d0f-b716-c1d5bac48cc6",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-27T23:00:00.000Z",
+      "value": 500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0079 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "5abe3453-6c20-470d-a90f-1d32a900cabb",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-27T23:00:00.000Z",
+      "value": -9.95,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0079 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "914288f4-1dae-4075-bf3e-186692eded08",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-10-29T23:00:00.000Z",
+      "value": -26330.59,
+      "description": "Sicil No: 28623010111153200770546000, Ad/Ünvan: LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA, Borç Türü: 4101-4A Prim Borcu, S.Ö.T: 31.10.2025, Açıklama: , SGK MOSİP Tahsilatı",
+      "bank": "Albaraka",
+      "id": "6538579b-56a0-4f7b-8443-09e30eb8e0a8",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-01T23:00:00.000Z",
+      "value": -540,
+      "description": "130800000000824 nolu isyerinin 01715541  \\ 0000 nolu pos ve batchinin POS Yazılım/Donanım/Bakım Ücreti Yazarkasa POS",
+      "bank": "Albaraka",
+      "id": "e4455170-a2c1-4613-b36b-a596b2288009",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-04T23:00:00.000Z",
+      "value": -44000,
+      "description": "NCC2025000000007 belge numaralı protez fatura bedeli (05/11/2025 tarihli 2187523781 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Enpara Bank A.Ş. Nagehan ışık cengiz hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "7247abdc-5fa3-4c67-9397-446ff094f124",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-11T23:00:00.000Z",
+      "value": -36000,
+      "description": "tadilat bedeli (12/11/2025 tarihli 2205969251 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. KARİN TAAHHÜT YAPI İNŞAAT EMLAK SANAYİ TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "fc724be9-ae82-4d8c-b11e-34d8ffbef07f",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-18T23:00:00.000Z",
+      "value": 2100,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0081 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "42c3482b-33fc-4638-bf5b-0feeed275724",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-20T23:00:00.000Z",
+      "value": 9900,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0082 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "04c4bd0d-3ee5-4b4b-8e39-b40497281d16",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-23T23:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0080 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "5a526318-1d5a-4422-a945-ef278a6f8892",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-23T23:00:00.000Z",
+      "value": -0.02,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0080 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "38b8c8b2-fca1-4834-be3d-0599cc5247d1",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-26T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0085 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "dab7cc54-6b16-498b-9f95-92663037a4ad",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-28T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0081 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "7454254e-1536-4d8f-bddc-48551bbac54f",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-28T23:00:00.000Z",
+      "value": -0.05,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0081 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "8d9bc19c-b6f1-42d6-b606-58e040db324c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-30T23:00:00.000Z",
+      "value": 35000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0082 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "b94a23f1-8d33-40c9-bef1-a6d5d09e6b5c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-11-30T23:00:00.000Z",
+      "value": -0.35,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0082 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "5cd55f7d-5e68-4a24-b789-b77540b4b2fb",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-01T23:00:00.000Z",
+      "value": -7490,
+      "description": "EFA2025000000513 fatura bedeli (02/12/2025 tarihli 2261257485 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Garanti Bankası A.Ş. BURSA DENTAL DİŞ DEPOSU SAN. VE TİC. LTD. ŞTİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "3159afbf-a306-4d8f-b618-6961d8b94ff0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-01T23:00:00.000Z",
+      "value": -540,
+      "description": "130800000000824 nolu isyerinin 01715541  \\ 0000 nolu pos ve batchinin POS Yazılım/Donanım/Bakım Ücreti Yazarkasa POS",
+      "bank": "Albaraka",
+      "id": "2b3a751b-fa1c-469b-82a5-75d07a91315b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-02T23:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0083 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "370a742e-ee25-4045-9ac5-b00bc5382617",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-02T23:00:00.000Z",
+      "value": -0.02,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0083 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "f3404abd-bc77-4382-93b6-3d13b17c9f92",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-04T23:00:00.000Z",
+      "value": -53000,
+      "description": "borç (05/12/2025 tarihli 2268106864 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Emlak Katılım Bankası A.Ş. muhammet sena karaalp hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "708b2ce3-2a73-4085-b88a-bdff5c9c832c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-05T23:00:00.000Z",
+      "value": 10000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0084 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "5ea52493-d8b4-455a-a1d4-9bdb80de2884",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-06T23:00:00.000Z",
+      "value": 9000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0085 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "4365a01c-77d5-47e8-9c38-d5226ab745f7",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-07T23:00:00.000Z",
+      "value": 1500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0086 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8212317c-456c-4b21-9265-1dc2af48cc53",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-07T23:00:00.000Z",
+      "value": -0.01,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0086 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "9ab18cc5-255e-434a-a51d-755412425c9a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-07T23:00:00.000Z",
+      "value": -20000,
+      "description": "tadilat bedeli (08/12/2025 tarihli 2273410958 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. Karin taahhüt yapı inşaat emlak sanayi ticaret limited şirketi hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "ab46ebbf-f2f6-4ba5-8484-edfae8727286",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-08T23:00:00.000Z",
+      "value": 15500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0087 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "d7881060-9340-4bcc-8380-690c5eb4f2c4",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-08T23:00:00.000Z",
+      "value": -0.15,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0087 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "32e5da40-58b2-41f0-b01d-d9eeeabaaa32",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-09T23:00:00.000Z",
+      "value": 750,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0088 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "41283e15-de49-4a89-af3b-df4af3efe8de",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-10T23:00:00.000Z",
+      "value": 1500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0089 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "02102b38-8b3c-481b-91de-e29a12cee741",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-10T23:00:00.000Z",
+      "value": -0.01,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0089 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "d273667e-2797-408d-87df-170a81ad93d9",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-10T23:00:00.000Z",
+      "value": -18500,
+      "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+      "bank": "Albaraka",
+      "id": "fa4ed6a7-4920-4700-8d54-205f6c657c5b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-12T23:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0090 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "7c79452e-c955-4ee3-a60b-2bc2e6c0223a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-12T23:00:00.000Z",
+      "value": -0.02,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0090 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "1792b348-f33e-498c-9ea3-c7b7996fd86d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-14T23:00:00.000Z",
+      "value": 8500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0091 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8ac942af-9af0-4c33-901b-60ce7052748a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-14T23:00:00.000Z",
+      "value": -0.08,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0091 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "aea18fca-1bb3-42c4-89d0-d24afc2fc458",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-16T23:00:00.000Z",
+      "value": 1250,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0092 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "f6937498-3fed-4293-a694-3707e2c5b39c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-16T23:00:00.000Z",
+      "value": -0.01,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0092 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "2f97f811-072d-4986-b452-4b7df79ec87e",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-21T23:00:00.000Z",
+      "value": 7000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0093 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "98664af5-b2e9-407e-bd2a-2f30d2d4d6f1",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-23T23:00:00.000Z",
+      "value": 4280,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0094 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "1525e563-45e9-4a7a-8f5e-d49dbb1d4e9a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-23T23:00:00.000Z",
+      "value": -0.04,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0094 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "84f17bac-ae48-4018-87d2-2effa7cd1f38",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-29T23:00:00.000Z",
+      "value": 3500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0095 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "42fdf128-2eaa-40a4-a4a4-5eab5a7f0a7c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-29T23:00:00.000Z",
+      "value": -0.03,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0095 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "b4b46228-8cea-485e-bf56-fd4f03454377",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2025-12-31T23:00:00.000Z",
+      "value": -6000,
+      "description": "kendi hesabımıza virman (01/01/2026 tarihli 2328198825 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "e7e24de1-dcd4-4466-a776-f948bc5af24b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-01T23:00:00.000Z",
+      "value": 73800,
+      "description": "Şirket sermaye ödemesi (02.01.2026 tarihli 202601028716 sorgu no'lu Türkiye Emlak Katılım Bankası A.Ş. BURAK ANIL KARAALP hesabından Lumina dental klinik sağlık turizm inşaat ithalat hesabına gelen FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "7e0549f6-24d9-4ff8-9abb-280d06977741",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-01T23:00:00.000Z",
+      "value": -94399.29,
+      "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+      "bank": "Albaraka",
+      "id": "e0d5e8b4-769e-48f0-9973-60b429b71ae9",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-02T23:00:00.000Z",
+      "value": 4000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0096 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "31cd7a93-edce-43ce-8d8b-3a9eabeba76b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-02T23:00:00.000Z",
+      "value": -0.04,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0096 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "ae52ca14-242e-4e3f-8fbb-46c8d3510f94",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-02T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0097 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "56bae2f4-d523-4416-8dd7-020c14447933",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-02T23:00:00.000Z",
+      "value": -0.04,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0097 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "baca3a79-ad22-48a6-a6ef-08b80fa9b493",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-03T23:00:00.000Z",
+      "value": 5250,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0099 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "2b2c3514-a5b2-4caa-b7a3-0ac8bec3cd62",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-04T23:00:00.000Z",
+      "value": -1142,
+      "description": "Cep Telefon No / Kurumsal Hizmet No: 9960188964, Ad Soyad/Unvan: LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura Numarası: 20252117670692, Son Ödeme Tarihi: 16.01.2026,  Türk Telekom Mobil  (TT Mobil) Tahsilatı",
+      "bank": "Albaraka",
+      "id": "5e44e028-4c50-4965-9852-693a72079b7c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-04T23:00:00.000Z",
+      "value": -1681.5,
+      "description": "7045792678 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2025135698919, Son Ödeme Tarihi:16.01.2026Türk Telekom İnternet/TV (TTNET) Tahsilatı",
+      "bank": "Albaraka",
+      "id": "8fd36d04-58d5-4a38-a606-ff28acc6a126",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-05T23:00:00.000Z",
+      "value": 4000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0103 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "226a899e-90b6-4b7d-ba21-f444d7ce2909",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-05T23:00:00.000Z",
+      "value": -0.04,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0103 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "869a3d5b-1ada-422e-82f9-4d9e8ae73d56",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-05T23:00:00.000Z",
+      "value": -190.5,
+      "description": "2011611765354 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2025110009200, Son Ödeme Tarihi:26.12.2025 Türk Telekom Ses/Data/ICT Tahsilatı",
+      "bank": "Albaraka",
+      "id": "ad45c9cf-0981-4de1-a63a-552505c01432",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-05T23:00:00.000Z",
+      "value": -189,
+      "description": "2011611765354 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2025120009089, Son Ödeme Tarihi:27.01.2026 Türk Telekom Ses/Data/ICT Tahsilatı",
+      "bank": "Albaraka",
+      "id": "d4d4df28-8451-486c-ac64-3200ba664e72",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-06T23:00:00.000Z",
+      "value": 4500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0105 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "af790aba-f5c4-4a1e-972c-013d2b1fc1fe",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-06T23:00:00.000Z",
+      "value": -0.04,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0105 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "4601b2e8-760b-4db1-9c52-936f3dddd049",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-07T23:00:00.000Z",
+      "value": -4000,
+      "description": "15-16-17-18nolu ofis için aralık 2025 aidat bedeli (08/01/2026 tarihli 2342816029 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZÜ YÖNETİMİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "738481b8-3aa5-4817-a65e-e32c7b7f3297",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-07T23:00:00.000Z",
+      "value": -4000,
+      "description": "15-16-17-18nolu ofis için ocak 2026 aidat bedeli (08/01/2026 tarihli 2342816641 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZÜ YÖNETİMİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "4c0ae945-6e34-4ee2-89da-b06a46acf13b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-07T23:00:00.000Z",
+      "value": -3850,
+      "description": "GIB2026000000002 nolu fatura ödemesi diş protez laboratuvarı (08/01/2026 tarihli 2343110402 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. vildan akbulak hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "4227a8ba-8b56-4f93-9f00-f3d7cab2cf05",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-09T23:00:00.000Z",
+      "value": -3000,
+      "description": "şirket hesabına havale (10/01/2026 tarihli 2347374601 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. lumina dental klinik sağlık turizm inşaat ithalat ihracat sanayi ve ticari limited şirketi hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "9f372b3f-82da-42fa-acfe-befe0622ec82",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-12T23:00:00.000Z",
+      "value": 6000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0117 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "adef75f1-31ed-4a48-8f55-2a4980306c99",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-12T23:00:00.000Z",
+      "value": -0.06,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0117 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "fbe29828-6539-4117-84da-47ab0de7c235",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-16T23:00:00.000Z",
+      "value": 3000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0125 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "7d4f6ce2-8bec-4315-9342-de02723229a2",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-16T23:00:00.000Z",
+      "value": 3000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0144 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "a4eb0c42-1078-4f92-af39-c3b9c0ae890c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-17T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0127 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "b7d347ab-ca49-498b-bdc7-1b5d69d89fa8",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-17T23:00:00.000Z",
+      "value": -0.05,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0127 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "e7eacdfe-991d-4e0f-a5f0-b074cfd73a9d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-19T23:00:00.000Z",
+      "value": 4500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0131 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "76549b66-3b60-48eb-a921-1083ed382d57",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-19T23:00:00.000Z",
+      "value": -0.04,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0131 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "47cf738b-9828-4a53-90ef-b26f999e00ac",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-19T23:00:00.000Z",
+      "value": -3600,
+      "description": "DBF2026000000001 numaralı faturanın ödemesi (20/01/2026 tarihli 2371454657 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. nigar alemdar ekiz hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "18682215-0b52-4c65-9b45-c7714d403287",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-26T23:00:00.000Z",
+      "value": 500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0143 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8f95c3eb-003d-4ab7-806f-d2eb04bfa2db",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-26T23:00:00.000Z",
+      "value": 500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0144 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8eb651a3-3611-44f9-aad3-916ebf79e046",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-26T23:00:00.000Z",
+      "value": -791,
+      "description": "0015/KDV GERÇEK Tahsilatı Dönem :12/2025/12/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026012601G2O0000251",
+      "bank": "Albaraka",
+      "id": "20952b54-9b19-471b-bf99-db5339264bcb",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-26T23:00:00.000Z",
+      "value": -1430,
+      "description": "MCE2026000000023 numaralı faturanın ödemesi (27/01/2026 tarihli 2386355756 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. Mustafa Cem Aypek hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "4047131b-4b51-4381-a399-cd71095f347d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-27T23:00:00.000Z",
+      "value": 3000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0146 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "10ba960e-b264-4684-be70-d6df0f602e96",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-27T23:00:00.000Z",
+      "value": -0.03,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0146 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "34b69ad1-c5a2-494d-a6ab-39e5d6887725",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-27T23:00:00.000Z",
+      "value": -3711.25,
+      "description": "0033/KUR.GEÇ.V Tahsilatı Dönem :07/2025/09/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2025111401G2O0000033",
+      "bank": "Albaraka",
+      "id": "de7a1125-18f8-4183-a43c-a2d2a2f79e19",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-27T23:00:00.000Z",
+      "value": -744.14,
+      "description": "0015/KDV GERÇEK Tahsilatı Dönem :09/2025/09/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2025102401G2O0000207",
+      "bank": "Albaraka",
+      "id": "0acc4ccd-c272-42cc-a041-c035d9276568",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-27T23:00:00.000Z",
+      "value": -689.61,
+      "description": "0015/KDV GERÇEK Tahsilatı Dönem :11/2025/11/2025 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2025122701G2O0000004",
+      "bank": "Albaraka",
+      "id": "d7bcbe10-6f4a-4a3a-a424-60f29d70f54b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-27T23:00:00.000Z",
+      "value": -19259,
+      "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+      "bank": "Albaraka",
+      "id": "ca8729a9-b162-4346-9721-e79d283ea6a8",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-30T23:00:00.000Z",
+      "value": 30000,
+      "description": "Şirket sermaye ödemesi (31.01.2026 tarihli 7271826 sorgu no'lu Kuveyt Türk Katılım Bankası A.Ş. BURAK ANIL KARAALP hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETi hesabına gelen FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "600b1449-c2ea-440e-b7a1-88922b4d65eb",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-30T23:00:00.000Z",
+      "value": -30000,
+      "description": "9467/AĞIZDİŞRUH.H Tahsilatı Dönem :01/2026/12/2026 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026011901G2r0000159",
+      "bank": "Albaraka",
+      "id": "d1da1b18-bcc3-4f9e-8ccb-3aa2259079c8",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-31T23:00:00.000Z",
+      "value": 1750,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0153 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "275198c2-e5da-459b-92f0-81d6d9cdeaee",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-01-31T23:00:00.000Z",
+      "value": -0.01,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0153 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "69ab0c54-47e6-4b48-a1f2-c8a6f18c4620",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-01T23:00:00.000Z",
+      "value": 30000,
+      "description": "KENDİ ŞİRKET HESABIMA PARA TRANSFERİ (02.02.2026 tarihli 4038515 sorgu no'lu Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT  SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına gelen FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "3f278972-838f-413c-bd93-ca2e2cfb0919",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-01T23:00:00.000Z",
+      "value": -29352.46,
+      "description": "Sicil No: 28623010111153200770546000, Ad/Ünvan: LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA, Borç Türü: 4101-4A Prim Borcu, S.Ö.T: 02.02.2026, Açıklama: , SGK MOSİP Tahsilatı",
+      "bank": "Albaraka",
+      "id": "993f251d-083f-4c20-9df8-b67938f69f8d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-01T23:00:00.000Z",
+      "value": 96562,
+      "description": "Kendi şirket hesabıma transfer (02.02.2026 tarihli 4091333 sorgu no'lu Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE LİMİTED ŞİRKETİ hesabına gelen FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "24a30279-6605-4a8e-baa1-14570768d473",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-01T23:00:00.000Z",
+      "value": -98960.01,
+      "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+      "bank": "Albaraka",
+      "id": "3b56b8a8-bf34-47bc-bf63-24d30fe69720",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-02T23:00:00.000Z",
+      "value": 12000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0157 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "ea43e9ec-1836-40d5-8925-cd4755e59884",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-02T23:00:00.000Z",
+      "value": -0.12,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0157 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "e31b1afd-bcd3-41a0-b051-fd8f8c0ca4dc",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-03T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0159 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "cb093366-6029-4965-804b-48cbd795a413",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-03T23:00:00.000Z",
+      "value": -0.05,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0159 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "42c36861-dace-4aac-a787-17579bbbd60a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-04T23:00:00.000Z",
+      "value": 1000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0161 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "f748450a-0e11-4e8a-b842-c00ca8134459",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-06T23:00:00.000Z",
+      "value": 2000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0165 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "a7383c17-db37-45d7-93a4-5a5a1379d467",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-06T23:00:00.000Z",
+      "value": 8500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0185 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "c9c22d49-734c-4148-9178-60bd357fb0c5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-07T23:00:00.000Z",
+      "value": 500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0167 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "5d26b5e0-d651-47ae-a6eb-c0d70ca57535",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-07T23:00:00.000Z",
+      "value": -1617.16,
+      "description": "N289948 (08/02/2026 tarihli 2412642039 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Garanti Bankası A.Ş. Niobe hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "4cc6a2ef-794c-44e5-bc6a-b78ef677a377",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": 6500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0169 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "c68aaa54-fe0d-4161-9fc8-5b96754d9fc8",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -0.06,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0169 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "66f6be4d-f254-4485-a378-7ce46a9f77da",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -4500.36,
+      "description": "Sözleşme Numarası: 23110739, Tekil Numarası: 3847855,Fatura Numarası: 29203|2026011516063EVAV,Müşteri Durumu:Uludağ Elektrik,Son Ödeme Tarihi: 26.01.2026,Ad Soyad/Unvan: L****A D****L K****K S****K T****M İ***,Uludağ Elektrik Tahsilatı",
+      "bank": "Albaraka",
+      "id": "c5153892-3db8-4419-8a3d-a458e06c4173",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -2569.15,
+      "description": "Sözleşme Numarası: 23110878, Tekil Numarası: 3847857,Fatura Numarası: 29203|2026011516062D3KF,Müşteri Durumu:Uludağ Elektrik,Son Ödeme Tarihi: 26.01.2026,Ad Soyad/Unvan: L****A D****L K****K S****K T****M İ***,Uludağ Elektrik Tahsilatı",
+      "bank": "Albaraka",
+      "id": "4f181337-db5f-4ea7-be94-a343b7bd56a4",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -1681,
+      "description": "7045792678 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2026010797898, Son Ödeme Tarihi:16.02.2026Türk Telekom İnternet/TV (TTNET) Tahsilatı",
+      "bank": "Albaraka",
+      "id": "d562aaf2-0b1d-4993-8ea5-78c085f433e7",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -1320.25,
+      "description": "Cep Telefon No / Kurumsal Hizmet No: 9960188964, Ad Soyad/Unvan: LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura Numarası: 20262136530714, Son Ödeme Tarihi: 16.02.2026,  Türk Telekom Mobil  (TT Mobil) Tahsilatı",
+      "bank": "Albaraka",
+      "id": "3c450207-56f6-4d8d-ad27-51933d3ec85d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -192.5,
+      "description": "2011611765354 Abone Nolu, Adı/Ünvanı:LU*** DE*** KL*** SA*** TU*** İN*** İT**, Fatura No:2026010009107, Son Ödeme Tarihi:27.02.2026 Türk Telekom Ses/Data/ICT Tahsilatı",
+      "bank": "Albaraka",
+      "id": "2b70ee56-ff45-4a95-b023-46c34f097f1a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -1150,
+      "description": "PR12025000000269 numaralı faturanın ödemesi (09/02/2026 tarihli 2413766533 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. LİDER TMSM İŞ SAĞLIĞI İŞ GÜVENLİĞİ EĞİTİM DANIŞMANLIK SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "8eb5a8b2-0757-4926-a998-65044c3a6c4a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -1840,
+      "description": "LR02026000000072 numaralı faturanın ödemesi (09/02/2026 tarihli 2413789626 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. LİDER TMSM İŞ SAĞLIĞI İŞ GÜVENLİĞİ EĞİTİM DANIŞMANLIK   SAĞLIK TURIZM İNŞAAT TAAH SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "e02405e5-ab0f-4859-8db2-3c8746fb4aaa",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-08T23:00:00.000Z",
+      "value": -20588.7,
+      "description": "2026 yılı Ocak dönemi maaş ödemesi (09/02/2026 tarihli 2413798524 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. MUSA GÖKSU hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "a9c50838-75d8-49fe-97ba-a8c505f56986",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-09T23:00:00.000Z",
+      "value": 8500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0171 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "4f7e6c62-fa6f-4a69-ad1f-38bf4b78d937",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-09T23:00:00.000Z",
+      "value": -0.08,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0171 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "ade4cf71-a797-441d-a15c-97d696a77a83",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-10T23:00:00.000Z",
+      "value": 13000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0173 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8c377ee8-ebbd-4f67-ac72-0c8066b98401",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-11T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0175 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "5c4eb03e-606f-4d96-840f-7c7e13257211",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-11T23:00:00.000Z",
+      "value": 1500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0193 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "7087759d-c651-4dca-a3ec-c8f5796a2672",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-12T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0195 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "f005b49a-c201-4ee2-8776-09f0a0e11b12",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-14T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0199 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8390af99-5f0a-4151-88a4-b696fa7d9195",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-15T23:00:00.000Z",
+      "value": 9000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0183 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "e513811c-37d3-49f5-8ea8-69c0e0395084",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-15T23:00:00.000Z",
+      "value": -0.09,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0183 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "cdacffb5-9478-4470-b6fe-adff9dbb776a",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-18T23:00:00.000Z",
+      "value": 49375,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0189 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8f2d1c32-664f-4f6d-a214-4a5078cbb1c0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-19T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0209 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8b680be2-90a8-4c4e-8e6c-09a491784990",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-20T23:00:00.000Z",
+      "value": 3500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0191 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "b3088d2a-7e2d-46f2-8a86-46ca5c504ab2",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-20T23:00:00.000Z",
+      "value": -5939.7,
+      "description": "0003/G.STOPAJ Tahsilatı Dönem :01/2026/01/2026 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026021801G2O0000019",
+      "bank": "Albaraka",
+      "id": "43e52c3f-0319-4ad0-a174-ce4a6b87ebc9",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-21T23:00:00.000Z",
+      "value": 35000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0193 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "4b4e8931-1ea6-4538-810c-3efa26aa8b9f",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-21T23:00:00.000Z",
+      "value": -0.35,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0193 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "4af2a0a9-4a37-4b39-bd6e-e4cefd97f1bd",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-22T23:00:00.000Z",
+      "value": 11000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0195 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8c22e6bc-57eb-440a-b34c-46d5317f1292",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-22T23:00:00.000Z",
+      "value": -0.11,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0195 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "1fa76102-3a34-4726-ae99-daabe2aedad0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-24T23:00:00.000Z",
+      "value": 48000,
+      "description": "Kendi şirket hesabıma transfer (25.02.2026 tarihli 4046952 sorgu no'lu Albaraka Türk Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT hesabından LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE LİMİTED ŞİRKETİ hesabına gelen FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "15b56972-c55c-411a-8b02-a1cac2bab6c7",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-24T23:00:00.000Z",
+      "value": -46873.91,
+      "description": "Sicil No: 28623010111153200770546000, Ad/Ünvan: LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA, Borç Türü: 4101-4A Prim Borcu, S.Ö.T: 02.03.2026, Açıklama: , SGK MOSİP Tahsilatı",
+      "bank": "Albaraka",
+      "id": "577fbd12-5ad1-4eb3-a7f1-324a8335c5e5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-25T23:00:00.000Z",
+      "value": 16000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0201 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "5d1b22e7-f018-47a3-903c-4c4b135bcede",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-25T23:00:00.000Z",
+      "value": -0.08,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0201 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "865d867c-4db4-4163-a4fd-961a745ab6f1",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-28T23:00:00.000Z",
+      "value": 11800,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0207 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "2243f1a1-92fd-4f0f-a7f2-aea9d4023aa3",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-28T23:00:00.000Z",
+      "value": -0.11,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0207 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "2edb47e8-1f3f-4153-b1cb-3b894f7f0ed7",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-28T23:00:00.000Z",
+      "value": 3000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0227 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "6324ce67-d9f2-44c2-b181-693e8a716795",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-28T23:00:00.000Z",
+      "value": -156441.77,
+      "description": "4289********6724 no'lu Kredi Kartı Borç Ödemesi",
+      "bank": "Albaraka",
+      "id": "2a61b4ab-4b12-4740-9db8-28debfafc7a5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-28T23:00:00.000Z",
+      "value": -4000,
+      "description": "15-16-17-18nolu ofis için şubat 2026 aidat bedeli (01/03/2026 tarihli 2459359244 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZÜ YÖNETİMİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "558f073c-342e-40d1-9f83-d004f14f4323",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-28T23:00:00.000Z",
+      "value": 64500,
+      "description": "Şirket hesabına para transferi (01.03.2026 tarihli 202603011795 sorgu no'lu Türkiye Emlak Katılım Bankası A.Ş. LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Lumina dental klinik sağlık turizm inşaat ithalat ihracat sanayi ve ticaret limited şirketi hesabına gelen FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "0644b249-6f06-43f3-a59c-dc88dd0a5385",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-02-28T23:00:00.000Z",
+      "value": -79000,
+      "description": "itero senet ödemesi (01/03/2026 tarihli 2459373664 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. Anka Tıbbi Malz. Ltd.Şti. hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "184d6c89-eebb-4836-82af-68c2b5190ee5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-01T23:00:00.000Z",
+      "value": 10000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0209 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "925a2ba7-5e3b-436e-8371-9bfaa5d9d687",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-01T23:00:00.000Z",
+      "value": -791,
+      "description": "0015/KDV GERÇEK Tahsilatı Dönem :01/2026/01/2026 Taksit:1 Vkn/Tckn :6091375530 Soyadi/Unvani :LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAA Vergi Dairesi :077201 Tahakkuk Fiş No:2026022801G2O0000039",
+      "bank": "Albaraka",
+      "id": "6c5fb0ca-5d13-4698-9db8-37da0f4490c0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-03T23:00:00.000Z",
+      "value": 14000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0213 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "8e3e4897-8293-4c96-8ea3-b6bba17d3742",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-03T23:00:00.000Z",
+      "value": -4000,
+      "description": "2026 Ocak dönemi aidat ödemesi (04/03/2026 tarihli 2466797943 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Akbank T.A.Ş. OFİS 226 İŞ MERKEZİ YÖNETİMİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "a0d202c8-5e3b-404e-9521-e38a3b1dbfe0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-03T23:00:00.000Z",
+      "value": -1840,
+      "description": "LR02026000000073 numaralı faturanın ödemesi (04/03/2026 tarihli 2466831650 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye İş Bankası A.Ş. LİDER TMSM İŞ SAĞLIĞI İŞ GÜVENLİĞİ EĞİTİM DANIŞMANLIK   SAĞLIK TURIZM İNŞAAT TAAH SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "25764fab-122e-41cb-bcef-df39b88e4e6e",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-06T23:00:00.000Z",
+      "value": 22912,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0219 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "88534e25-43a9-40f8-9085-29915f1f40fd",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-06T23:00:00.000Z",
+      "value": 11000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0239 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "61eed6bb-2c8e-415d-a5f7-d7afa75f6698",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-08T23:00:00.000Z",
+      "value": 21000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0243 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "f6ec7c7f-cf7c-4e3b-94f2-f34ad584caf0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-09T23:00:00.000Z",
+      "value": 24000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0225 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "18b7c553-7a8c-48e5-ac35-020127140d01",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-09T23:00:00.000Z",
+      "value": -0.1,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0225 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "b2d6883e-8dd3-4c36-b064-bb53eabed696",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-10T23:00:00.000Z",
+      "value": 7000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0227 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "0b8749f0-231c-44a4-85d4-7cd7de92325b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-10T23:00:00.000Z",
+      "value": 500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0247 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "5f0fda39-b386-4e23-a2c3-9603365a85a5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-11T23:00:00.000Z",
+      "value": -100000,
+      "description": "tadilat bedeli (12/03/2026 tarihli 2484056168 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. KARİN TAAHHÜT YAPI İNŞAAT EMLAK SANAYİ TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "4cbe3f54-ab1c-41fa-8b0b-5b78788bbac0",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-11T23:00:00.000Z",
+      "value": 54000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0229 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "395d7a60-990f-4c6e-97cd-cfdeb660310c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-11T23:00:00.000Z",
+      "value": -0.15,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0229 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "500f86a6-38b2-4ced-9196-e2808e75f49b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-13T23:00:00.000Z",
+      "value": 45000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0233 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "f899dad6-fd21-4936-bea0-da1a6992ae3d",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-13T23:00:00.000Z",
+      "value": -0.35,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0233 nolu pos ve batchinin komisyonu",
+      "bank": "Albaraka",
+      "id": "d807bbfb-67b1-40fb-86ae-646f65a571d6",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-15T23:00:00.000Z",
+      "value": 9000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0237 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "95bf8b85-c6d7-4fad-9e13-dd1a6a9b50fa",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-15T23:00:00.000Z",
+      "value": -3776,
+      "description": "Sözleşme Numarası: 23110739, Tekil Numarası: 3847855,Fatura Numarası: 29203|20260313144130664,Müşteri Durumu:Uludağ Elektrik,Son Ödeme Tarihi: 23.03.2026,Ad Soyad/Unvan: L****A D****L K****K S****K T****M İ***,Uludağ Elektrik Tahsilatı",
+      "bank": "Albaraka",
+      "id": "42da280f-3b49-49bf-8abb-c9c7856ec9ed",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-17T23:00:00.000Z",
+      "value": 5000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0241 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "0596499e-e2ae-42a2-be66-a293ff3bcb5b",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-17T23:00:00.000Z",
+      "value": -100000,
+      "description": "tadilat bedeli (18/03/2026 tarihli 2504938478 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Kuveyt Türk Katılım Bankası A.Ş. KARİN TAAHHÜT YAPI İNŞAAT EMLAK SANAYİ TİCARET LİMİTED ŞİRKETİ hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "578c4d2e-2114-47ba-b760-6d2581b964a1",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-22T23:00:00.000Z",
+      "value": 3000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0251 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "43b4b7de-1fd4-45fc-9711-48ef5f0e3804",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-24T23:00:00.000Z",
+      "value": 10000,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0255 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albaraka",
+      "id": "96a2af2f-cd9d-437d-bcc4-2888ad093f3c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-24T23:00:00.000Z",
+      "value": -1375,
+      "description": "MCE2026000000068 numaralı faturanın ödemesi (25/03/2026 tarihli 2518142990 sorgu no'lu LUMİNA DENTAL KLİNİK SAĞLIK TURİZM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ hesabından Türkiye Cumhuriyeti Ziraat Bankası A.Ş. Mustafa Cem Aypek hesabına giden FAST ödemesi)",
+      "bank": "Albaraka",
+      "id": "d33e6577-4daa-48a7-b28f-e61308a2b7b5",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    },
+    {
+      "datetime": "2026-03-25T23:00:00.000Z",
+      "value": 16500,
+      "description": "130800000000824 nolu isyerinin 01715541 \\ 0257 nolu pos ve batchinin satış işlemleri",
+      "bank": "Albara",
+      "id": "162003da-28f8-41cd-92e9-c28c4ef5102c",
+      "batchId": "5388a308-eea5-4c6b-bef6-cba3e4ac85db"
+    }
+  ],
+  "banks": [
+    "Albara"
+  ]
+}
